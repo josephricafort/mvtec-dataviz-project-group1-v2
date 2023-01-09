@@ -29,6 +29,7 @@ As per course requirements, below are the lists of important links for the proje
 3. Data processing
 
 - [Link to script in this repo](https://github.com/josephricafort/mvtec-dataviz-project-group1-v2/blob/main/src/optimize/optimize.js)
+- [Link to cleaning Russian import data in this repo](https://github.com/josephricafort/mvtec-dataviz-project-group1-v2/blob/main/src/data/clean_RussianImports.js)
 - [Data processing](https://excalidraw.com/#room=1b1ad1e6cf65272155ee,AtyVEfyKwNe0JRVS-dVKgA)
 
 4. [This Svelte project](https://github.com/josephricafort/mvtec-dataviz-project-group1-v2)
