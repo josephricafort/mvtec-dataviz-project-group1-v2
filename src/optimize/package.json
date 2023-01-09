@@ -1,0 +1,21 @@
+{
+  "name": "@mvtec/week7",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "optimize": "node optimize.js",
+    "dev": "nodemon -w optimize.js -w util.js --exec \"npm run optimize\""
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "arquero": "^5.1.0",
+    "columnify": "^1.6.0",
+    "country-locale-map": "^1.8.10",
+    "gzip-size": "^7.0.0",
+    "pretty-bytes": "^6.0.0",
+    "yoctocolors": "^1.0.0"
+  }
+}
