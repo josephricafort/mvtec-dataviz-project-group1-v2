@@ -55,13 +55,38 @@
 		<TrendLinesChart />
 		<p>Note: The above chart uses normalized values to easily compare trends.</p>
 	</section>
-	<section>
+	<section class="content summary">
 		<h3>Summary</h3>
 		<p>Below are the three main key points that sums up our exploration:</p>
 		<ul>
 			<li>Europe's political independence did not stop importing and producing fossil fuel from Russia.</li>
 			<li>Renewable energy production is at its early stage at the moment anc currnently not as significant enough to replace fossil fuel.</li>
 			<li>Reduction of yearly increase on fossil fuel production did not prevent economic growth, but complete shift to renewables may not happen anytime soon.</li>
+		</ul>
+	</section>
+	<section class="footer sources">
+		<h3>Sources</h3>
+		<ul>
+			<li>
+				<a href="https://wid.world/">
+					World Inequality Database
+				</a>
+			</li>
+			<li>
+				<a href="https://github.com/owid/owid-datasets/tree/master/datasets/Fossil%20fuel%20production%20BP%20%26%20Shift%20(2022)">
+					Fossil Fuel Production BP & Shift
+				</a>
+			</li>
+			<li>
+				<a href="https://github.com/owid/energy-data/blob/master/owid-energy-codebook.csv">
+					Renewable Energy Data
+				</a>
+			</li>
+			<li>
+				<a href="https://www.iea.org/reports/national-reliance-on-russian-fossil-fuel-imports">
+					Countries Dependence On Fossil Fuel Imports from Russia
+				</a>
+			</li>
 		</ul>
 	</section>
 </main>
