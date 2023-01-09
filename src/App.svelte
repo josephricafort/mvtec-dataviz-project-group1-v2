@@ -53,6 +53,7 @@
 		<p>In general, an increase in fossil fuel production is also a relative increase in GDP. Although a reduction of fossil fuel production may not necessarily mean GDP will go down.</p>
 		<p>One of the good example is the reduction of coal production vs GDP expenditure (multiple price benchmark) for Europe and Africa.</p>
 		<TrendLinesChart />
+		<p>Note: The above chart uses normalized values to easily compare trends.</p>
 	</section>
 	<section>
 		<h3>Summary</h3>

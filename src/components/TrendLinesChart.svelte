@@ -8,7 +8,7 @@
 
     const height = 500
     const width = 600
-    const margin = { top: 20, right: 20, bottom: 30, left: 20 }
+    const margin = { top: 20, right: 20, bottom: 40, left: 30 }
 
     const trendInds = Object.keys(trendData[0]).slice(2)
     const ffInds = trendInds.slice(0, 6)
@@ -192,6 +192,25 @@
                         </text>
                     {/if}
                 {/each}
+            </g>
+            <g class="x-axis-label">
+                <text
+                    x={(width + margin.left)/2}
+                    y={height - 5}
+                    text-anchor="middle"
+                >
+                    GDP (output, multiple price benchmarks)
+                </text>
+            </g>
+            <g class="y-axis-label">
+                <text
+                    x={margin.left/2}
+                    y={(height + margin.top)/2}
+                    text-anchor="middle"
+                    transform={`rotate(-90, ${margin.left/2}, ${(height + margin.top)/2})`}
+                >
+                    {`Energy ${energyUnit}`}
+                </text>
             </g>
         </g>
         <g class="grid">

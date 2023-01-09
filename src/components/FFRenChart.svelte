@@ -11,8 +11,8 @@
     const indicatorsPercap = allInds.filter(ind => ind.includes("percap"))
 
     const width = 600
-    const height = 400
-    const margin = {top: 20, right: 20, bottom: 20, left: 50};
+    const height = 450
+    const margin = {top: 20, right: 20, bottom: 50, left: 30};
     
     let togglePercap = false;
     $: indicatorsUsed = !togglePercap ? indicators : indicatorsPercap
@@ -171,10 +171,10 @@
             <g class="x-axis">
                 <line
                     class="horizontal-rule"
-                    x1={0}
+                    x1={margin.left}
                     x2={width}
-                    y1={height - margin.top}
-                    y2={height - margin.top}
+                    y1={height - margin.bottom}
+                    y2={height - margin.bottom}
                     stroke="#333333"
                     stroke-width="1"
                 />
@@ -183,7 +183,7 @@
                         <text
                             class="x-tick-label"
                             x={x(date)}
-                            y={height}
+                            y={height - margin.bottom + 20}
                             text-anchor="middle"
                         >
                             {date.getFullYear()}    
@@ -194,17 +194,19 @@
             <g class="y-axis">
                 {#each yValRange as yVal}
                     <g class="y-tick">
-                        <text
-                            class="y-tick-label"
-                            x={0}
-                            y={y(yVal)}
-                            dy="18"
-                        >
-                        {yVal}
+                        {#if yVal !== 0}
+                            <text
+                                class="y-tick-label"
+                                x={margin.left}
+                                y={y(yVal)}
+                                dy="18"
+                            >
+                            {yVal}
                         </text>
+                        {/if}
                         <line
                             class="y-tick-line"
-                            x1={0}
+                            x1={margin.left}
                             x2={width}
                             y1={y(yVal)}
                             y2={y(yVal)}
@@ -213,6 +215,25 @@
                         />
                     </g>
                 {/each}
+            </g>
+            <g class="x-axis-label">
+                <text
+                    x={(width + margin.left)/2}
+                    y={height}
+                    text-anchor="middle"
+                >
+                    Year
+                </text>
+            </g>
+            <g class="y-axis-label">
+                <text
+                    x={margin.left/2}
+                    y={(height + margin.top)/2}
+                    text-anchor="middle"
+                    transform={`rotate(-90, ${margin.left/2}, ${(height + margin.top)/2})`}
+                >
+                    {`Energy ${energyUnit}`}
+                </text>
             </g>
         </g>
         <g class="tooltip">
@@ -282,9 +303,8 @@
 <style>
 .area-chart {
     display: block;
-    height: 500px;
     width: 100%;
-	margin: 0 0 2em 0;
+	margin: 20px 0;
     font-size: 14px;
 }
 
