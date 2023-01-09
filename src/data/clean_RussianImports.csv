@@ -1,0 +1,4129 @@
+Country,Fossil_Fuel,Year,Percentage
+Australia,Coal,1990,0 %
+Australia,Coal,1991,0 %
+Australia,Coal,1992,0 %
+Australia,Coal,1993,0 %
+Australia,Coal,1994,0 %
+Australia,Coal,1995,0 %
+Australia,Coal,1996,0 %
+Australia,Coal,1997,0 %
+Australia,Coal,1998,0 %
+Australia,Coal,1999,0 %
+Australia,Coal,2000,0 %
+Australia,Coal,2001,0 %
+Australia,Coal,2002,0 %
+Australia,Coal,2003,0 %
+Australia,Coal,2004,0 %
+Australia,Coal,2005,0 %
+Australia,Coal,2006,0 %
+Australia,Coal,2007,0 %
+Australia,Coal,2008,0 %
+Australia,Coal,2009,0 %
+Australia,Coal,2010,0 %
+Australia,Coal,2011,0 %
+Australia,Coal,2012,0 %
+Australia,Coal,2013,0 %
+Australia,Coal,2014,0 %
+Australia,Coal,2015,0 %
+Australia,Coal,2016,0 %
+Australia,Coal,2017,0 %
+Australia,Coal,2018,0 %
+Australia,Coal,2019,0 %
+Australia,Coal,2020,0 %
+Australia,Coal,2021,0 %
+Australia,Oil,1990,0 %
+Australia,Oil,1991,0 %
+Australia,Oil,1992,0 %
+Australia,Oil,1993,0 %
+Australia,Oil,1994,0 %
+Australia,Oil,1995,0 %
+Australia,Oil,1996,0 %
+Australia,Oil,1997,0 %
+Australia,Oil,1998,0 %
+Australia,Oil,1999,0 %
+Australia,Oil,2000,0 %
+Australia,Oil,2001,0 %
+Australia,Oil,2002,0 %
+Australia,Oil,2003,0 %
+Australia,Oil,2004,0 %
+Australia,Oil,2005,0 %
+Australia,Oil,2006,0 %
+Australia,Oil,2007,0 %
+Australia,Oil,2008,1 %
+Australia,Oil,2009,1 %
+Australia,Oil,2010,1 %
+Australia,Oil,2011,1 %
+Australia,Oil,2012,2 %
+Australia,Oil,2013,2 %
+Australia,Oil,2014,3 %
+Australia,Oil,2015,2 %
+Australia,Oil,2016,0 %
+Australia,Oil,2017,1 %
+Australia,Oil,2018,0 %
+Australia,Oil,2019,0 %
+Australia,Oil,2020,0 %
+Australia,Oil,2021,0 %
+Australia,Natural Gas,1990,0 %
+Australia,Natural Gas,1991,0 %
+Australia,Natural Gas,1992,0 %
+Australia,Natural Gas,1993,0 %
+Australia,Natural Gas,1994,0 %
+Australia,Natural Gas,1995,0 %
+Australia,Natural Gas,1996,0 %
+Australia,Natural Gas,1997,0 %
+Australia,Natural Gas,1998,0 %
+Australia,Natural Gas,1999,0 %
+Australia,Natural Gas,2000,0 %
+Australia,Natural Gas,2001,0 %
+Australia,Natural Gas,2002,0 %
+Australia,Natural Gas,2003,0 %
+Australia,Natural Gas,2004,0 %
+Australia,Natural Gas,2005,0 %
+Australia,Natural Gas,2006,0 %
+Australia,Natural Gas,2007,0 %
+Australia,Natural Gas,2008,0 %
+Australia,Natural Gas,2009,0 %
+Australia,Natural Gas,2010,0 %
+Australia,Natural Gas,2011,0 %
+Australia,Natural Gas,2012,0 %
+Australia,Natural Gas,2013,0 %
+Australia,Natural Gas,2014,0 %
+Australia,Natural Gas,2015,0 %
+Australia,Natural Gas,2016,0 %
+Australia,Natural Gas,2017,0 %
+Australia,Natural Gas,2018,0 %
+Australia,Natural Gas,2019,0 %
+Australia,Natural Gas,2020,0 %
+Australia,Natural Gas,2021,0 %
+Austria,Coal,1990,10 %
+Austria,Coal,1991,6 %
+Austria,Coal,1992,6 %
+Austria,Coal,1993,1 %
+Austria,Coal,1994,0 %
+Austria,Coal,1995,0 %
+Austria,Coal,1996,0 %
+Austria,Coal,1997,0 %
+Austria,Coal,1998,0 %
+Austria,Coal,1999,0 %
+Austria,Coal,2000,0 %
+Austria,Coal,2001,0 %
+Austria,Coal,2002,0 %
+Austria,Coal,2003,0 %
+Austria,Coal,2004,1 %
+Austria,Coal,2005,1 %
+Austria,Coal,2006,1 %
+Austria,Coal,2007,2 %
+Austria,Coal,2008,0 %
+Austria,Coal,2009,0 %
+Austria,Coal,2010,2 %
+Austria,Coal,2011,2 %
+Austria,Coal,2012,4 %
+Austria,Coal,2013,1 %
+Austria,Coal,2014,0 %
+Austria,Coal,2015,6 %
+Austria,Coal,2016,6 %
+Austria,Coal,2017,4 %
+Austria,Coal,2018,5 %
+Austria,Coal,2019,8 %
+Austria,Coal,2020,9 %
+Austria,Coal,2021,9 %
+Austria,Oil,1990,8 %
+Austria,Oil,1991,5 %
+Austria,Oil,1992,4 %
+Austria,Oil,1993,3 %
+Austria,Oil,1994,10 %
+Austria,Oil,1995,15 %
+Austria,Oil,1996,10 %
+Austria,Oil,1997,10 %
+Austria,Oil,1998,10 %
+Austria,Oil,1999,6 %
+Austria,Oil,2000,8 %
+Austria,Oil,2001,9 %
+Austria,Oil,2002,7 %
+Austria,Oil,2003,11 %
+Austria,Oil,2004,9 %
+Austria,Oil,2005,16 %
+Austria,Oil,2006,10 %
+Austria,Oil,2007,2 %
+Austria,Oil,2008,2 %
+Austria,Oil,2009,3 %
+Austria,Oil,2010,6 %
+Austria,Oil,2011,11 %
+Austria,Oil,2012,10 %
+Austria,Oil,2013,10 %
+Austria,Oil,2014,6 %
+Austria,Oil,2015,7 %
+Austria,Oil,2016,8 %
+Austria,Oil,2017,5 %
+Austria,Oil,2018,2 %
+Austria,Oil,2019,3 %
+Austria,Oil,2020,7 %
+Austria,Oil,2021,6 %
+Austria,Natural Gas,1990,83 %
+Austria,Natural Gas,1991,75 %
+Austria,Natural Gas,1992,76 %
+Austria,Natural Gas,1993,75 %
+Austria,Natural Gas,1994,65 %
+Austria,Natural Gas,1995,77 %
+Austria,Natural Gas,1996,71 %
+Austria,Natural Gas,1997,69 %
+Austria,Natural Gas,1998,69 %
+Austria,Natural Gas,1999,64 %
+Austria,Natural Gas,2000,64 %
+Austria,Natural Gas,2001,60 %
+Austria,Natural Gas,2002,62 %
+Austria,Natural Gas,2003,69 %
+Austria,Natural Gas,2004,68 %
+Austria,Natural Gas,2005,70 %
+Austria,Natural Gas,2006,66 %
+Austria,Natural Gas,2007,65 %
+Austria,Natural Gas,2008,63 %
+Austria,Natural Gas,2009,81 %
+Austria,Natural Gas,2010,79 %
+Austria,Natural Gas,2011,91 %
+Austria,Natural Gas,2012,100 %
+Austria,Natural Gas,2013,76 %
+Austria,Natural Gas,2014,0 %
+Austria,Natural Gas,2015,0 %
+Austria,Natural Gas,2016,0 %
+Austria,Natural Gas,2017,0 %
+Austria,Natural Gas,2018,0 %
+Austria,Natural Gas,2019,0 %
+Austria,Natural Gas,2020,0 %
+Austria,Natural Gas,2021,0 %
+Belgium,Coal,1990,1 %
+Belgium,Coal,1991,3 %
+Belgium,Coal,1992,2 %
+Belgium,Coal,1993,3 %
+Belgium,Coal,1994,1 %
+Belgium,Coal,1995,1 %
+Belgium,Coal,1996,2 %
+Belgium,Coal,1997,5 %
+Belgium,Coal,1998,7 %
+Belgium,Coal,1999,8 %
+Belgium,Coal,2000,10 %
+Belgium,Coal,2001,12 %
+Belgium,Coal,2002,12 %
+Belgium,Coal,2003,11 %
+Belgium,Coal,2004,15 %
+Belgium,Coal,2005,12 %
+Belgium,Coal,2006,10 %
+Belgium,Coal,2007,17 %
+Belgium,Coal,2008,20 %
+Belgium,Coal,2009,5 %
+Belgium,Coal,2010,2 %
+Belgium,Coal,2011,1 %
+Belgium,Coal,2012,10 %
+Belgium,Coal,2013,23 %
+Belgium,Coal,2014,25 %
+Belgium,Coal,2015,23 %
+Belgium,Coal,2016,27 %
+Belgium,Coal,2017,25 %
+Belgium,Coal,2018,32 %
+Belgium,Coal,2019,31 %
+Belgium,Coal,2020,32 %
+Belgium,Coal,2021,31 %
+Belgium,Oil,1990,27 %
+Belgium,Oil,1991,18 %
+Belgium,Oil,1992,12 %
+Belgium,Oil,1993,16 %
+Belgium,Oil,1994,13 %
+Belgium,Oil,1995,15 %
+Belgium,Oil,1996,18 %
+Belgium,Oil,1997,16 %
+Belgium,Oil,1998,17 %
+Belgium,Oil,1999,24 %
+Belgium,Oil,2000,27 %
+Belgium,Oil,2001,25 %
+Belgium,Oil,2002,46 %
+Belgium,Oil,2003,52 %
+Belgium,Oil,2004,63 %
+Belgium,Oil,2005,63 %
+Belgium,Oil,2006,62 %
+Belgium,Oil,2007,77 %
+Belgium,Oil,2008,63 %
+Belgium,Oil,2009,55 %
+Belgium,Oil,2010,66 %
+Belgium,Oil,2011,67 %
+Belgium,Oil,2012,61 %
+Belgium,Oil,2013,63 %
+Belgium,Oil,2014,59 %
+Belgium,Oil,2015,50 %
+Belgium,Oil,2016,58 %
+Belgium,Oil,2017,80 %
+Belgium,Oil,2018,64 %
+Belgium,Oil,2019,59 %
+Belgium,Oil,2020,45 %
+Belgium,Oil,2021,44 %
+Belgium,Natural Gas,1990,0 %
+Belgium,Natural Gas,1991,0 %
+Belgium,Natural Gas,1992,0 %
+Belgium,Natural Gas,1993,0 %
+Belgium,Natural Gas,1994,0 %
+Belgium,Natural Gas,1995,0 %
+Belgium,Natural Gas,1996,0 %
+Belgium,Natural Gas,1997,0 %
+Belgium,Natural Gas,1998,0 %
+Belgium,Natural Gas,1999,0 %
+Belgium,Natural Gas,2000,0 %
+Belgium,Natural Gas,2001,0 %
+Belgium,Natural Gas,2002,0 %
+Belgium,Natural Gas,2003,0 %
+Belgium,Natural Gas,2004,2 %
+Belgium,Natural Gas,2005,5 %
+Belgium,Natural Gas,2006,4 %
+Belgium,Natural Gas,2007,5 %
+Belgium,Natural Gas,2008,5 %
+Belgium,Natural Gas,2009,3 %
+Belgium,Natural Gas,2010,2 %
+Belgium,Natural Gas,2011,0 %
+Belgium,Natural Gas,2012,0 %
+Belgium,Natural Gas,2013,0 %
+Belgium,Natural Gas,2014,0 %
+Belgium,Natural Gas,2015,0 %
+Belgium,Natural Gas,2016,0 %
+Belgium,Natural Gas,2017,0 %
+Belgium,Natural Gas,2018,2 %
+Belgium,Natural Gas,2019,11 %
+Belgium,Natural Gas,2020,8 %
+Belgium,Natural Gas,2021,8 %
+Bulgaria,Coal,1990,0 %
+Bulgaria,Coal,1991,0 %
+Bulgaria,Coal,1992,0 %
+Bulgaria,Coal,1993,0 %
+Bulgaria,Coal,1994,0 %
+Bulgaria,Coal,1995,0 %
+Bulgaria,Coal,1996,0 %
+Bulgaria,Coal,1997,3 %
+Bulgaria,Coal,1998,5 %
+Bulgaria,Coal,1999,4 %
+Bulgaria,Coal,2000,7 %
+Bulgaria,Coal,2001,0 %
+Bulgaria,Coal,2002,9 %
+Bulgaria,Coal,2003,11 %
+Bulgaria,Coal,2004,10 %
+Bulgaria,Coal,2005,11 %
+Bulgaria,Coal,2006,14 %
+Bulgaria,Coal,2007,9 %
+Bulgaria,Coal,2008,11 %
+Bulgaria,Coal,2009,10 %
+Bulgaria,Coal,2010,7 %
+Bulgaria,Coal,2011,8 %
+Bulgaria,Coal,2012,7 %
+Bulgaria,Coal,2013,9 %
+Bulgaria,Coal,2014,7 %
+Bulgaria,Coal,2015,9 %
+Bulgaria,Coal,2016,7 %
+Bulgaria,Coal,2017,8 %
+Bulgaria,Coal,2018,8 %
+Bulgaria,Coal,2019,8 %
+Bulgaria,Coal,2020,9 %
+Bulgaria,Coal,2021,9 %
+Bulgaria,Oil,1990,87 %
+Bulgaria,Oil,1991,75 %
+Bulgaria,Oil,1992,42 %
+Bulgaria,Oil,1993,96 %
+Bulgaria,Oil,1994,126 %
+Bulgaria,Oil,1995,134 %
+Bulgaria,Oil,1996,130 %
+Bulgaria,Oil,1997,133 %
+Bulgaria,Oil,1998,118 %
+Bulgaria,Oil,1999,127 %
+Bulgaria,Oil,2000,126 %
+Bulgaria,Oil,2001,133 %
+Bulgaria,Oil,2002,119 %
+Bulgaria,Oil,2003,84 %
+Bulgaria,Oil,2004,121 %
+Bulgaria,Oil,2005,113 %
+Bulgaria,Oil,2006,128 %
+Bulgaria,Oil,2007,97 %
+Bulgaria,Oil,2008,110 %
+Bulgaria,Oil,2009,109 %
+Bulgaria,Oil,2010,154 %
+Bulgaria,Oil,2011,154 %
+Bulgaria,Oil,2012,168 %
+Bulgaria,Oil,2013,186 %
+Bulgaria,Oil,2014,160 %
+Bulgaria,Oil,2015,136 %
+Bulgaria,Oil,2016,130 %
+Bulgaria,Oil,2017,101 %
+Bulgaria,Oil,2018,90 %
+Bulgaria,Oil,2019,102 %
+Bulgaria,Oil,2020,4 %
+Bulgaria,Oil,2021,N/A
+Bulgaria,Natural Gas,1990,101 %
+Bulgaria,Natural Gas,1991,97 %
+Bulgaria,Natural Gas,1992,100 %
+Bulgaria,Natural Gas,1993,99 %
+Bulgaria,Natural Gas,1994,98 %
+Bulgaria,Natural Gas,1995,100 %
+Bulgaria,Natural Gas,1996,101 %
+Bulgaria,Natural Gas,1997,104 %
+Bulgaria,Natural Gas,1998,100 %
+Bulgaria,Natural Gas,1999,103 %
+Bulgaria,Natural Gas,2000,94 %
+Bulgaria,Natural Gas,2001,100 %
+Bulgaria,Natural Gas,2002,104 %
+Bulgaria,Natural Gas,2003,94 %
+Bulgaria,Natural Gas,2004,96 %
+Bulgaria,Natural Gas,2005,88 %
+Bulgaria,Natural Gas,2006,90 %
+Bulgaria,Natural Gas,2007,91 %
+Bulgaria,Natural Gas,2008,96 %
+Bulgaria,Natural Gas,2009,99 %
+Bulgaria,Natural Gas,2010,93 %
+Bulgaria,Natural Gas,2011,86 %
+Bulgaria,Natural Gas,2012,83 %
+Bulgaria,Natural Gas,2013,93 %
+Bulgaria,Natural Gas,2014,94 %
+Bulgaria,Natural Gas,2015,97 %
+Bulgaria,Natural Gas,2016,97 %
+Bulgaria,Natural Gas,2017,99 %
+Bulgaria,Natural Gas,2018,99 %
+Bulgaria,Natural Gas,2019,80 %
+Bulgaria,Natural Gas,2020,73 %
+Bulgaria,Natural Gas,2021,77 %
+Canada,Coal,1990,0 %
+Canada,Coal,1991,0 %
+Canada,Coal,1992,0 %
+Canada,Coal,1993,0 %
+Canada,Coal,1994,0 %
+Canada,Coal,1995,0 %
+Canada,Coal,1996,0 %
+Canada,Coal,1997,0 %
+Canada,Coal,1998,0 %
+Canada,Coal,1999,0 %
+Canada,Coal,2000,0 %
+Canada,Coal,2001,0 %
+Canada,Coal,2002,0 %
+Canada,Coal,2003,0 %
+Canada,Coal,2004,0 %
+Canada,Coal,2005,0 %
+Canada,Coal,2006,1 %
+Canada,Coal,2007,1 %
+Canada,Coal,2008,1 %
+Canada,Coal,2009,0 %
+Canada,Coal,2010,0 %
+Canada,Coal,2011,0 %
+Canada,Coal,2012,0 %
+Canada,Coal,2013,0 %
+Canada,Coal,2014,0 %
+Canada,Coal,2015,0 %
+Canada,Coal,2016,1 %
+Canada,Coal,2017,1 %
+Canada,Coal,2018,1 %
+Canada,Coal,2019,1 %
+Canada,Coal,2020,2 %
+Canada,Coal,2021,1 %
+Canada,Oil,1990,0 %
+Canada,Oil,1991,1 %
+Canada,Oil,1992,0 %
+Canada,Oil,1993,1 %
+Canada,Oil,1994,0 %
+Canada,Oil,1995,1 %
+Canada,Oil,1996,0 %
+Canada,Oil,1997,1 %
+Canada,Oil,1998,0 %
+Canada,Oil,1999,1 %
+Canada,Oil,2000,1 %
+Canada,Oil,2001,0 %
+Canada,Oil,2002,0 %
+Canada,Oil,2003,2 %
+Canada,Oil,2004,3 %
+Canada,Oil,2005,3 %
+Canada,Oil,2006,2 %
+Canada,Oil,2007,2 %
+Canada,Oil,2008,1 %
+Canada,Oil,2009,1 %
+Canada,Oil,2010,1 %
+Canada,Oil,2011,1 %
+Canada,Oil,2012,0 %
+Canada,Oil,2013,0 %
+Canada,Oil,2014,0 %
+Canada,Oil,2015,0 %
+Canada,Oil,2016,0 %
+Canada,Oil,2017,0 %
+Canada,Oil,2018,1 %
+Canada,Oil,2019,1 %
+Canada,Oil,2020,0 %
+Canada,Oil,2021,0 %
+Canada,Natural Gas,1990,0 %
+Canada,Natural Gas,1991,0 %
+Canada,Natural Gas,1992,0 %
+Canada,Natural Gas,1993,0 %
+Canada,Natural Gas,1994,0 %
+Canada,Natural Gas,1995,0 %
+Canada,Natural Gas,1996,0 %
+Canada,Natural Gas,1997,0 %
+Canada,Natural Gas,1998,0 %
+Canada,Natural Gas,1999,0 %
+Canada,Natural Gas,2000,0 %
+Canada,Natural Gas,2001,0 %
+Canada,Natural Gas,2002,0 %
+Canada,Natural Gas,2003,0 %
+Canada,Natural Gas,2004,0 %
+Canada,Natural Gas,2005,0 %
+Canada,Natural Gas,2006,0 %
+Canada,Natural Gas,2007,0 %
+Canada,Natural Gas,2008,0 %
+Canada,Natural Gas,2009,0 %
+Canada,Natural Gas,2010,0 %
+Canada,Natural Gas,2011,0 %
+Canada,Natural Gas,2012,0 %
+Canada,Natural Gas,2013,0 %
+Canada,Natural Gas,2014,0 %
+Canada,Natural Gas,2015,0 %
+Canada,Natural Gas,2016,0 %
+Canada,Natural Gas,2017,0 %
+Canada,Natural Gas,2018,0 %
+Canada,Natural Gas,2019,0 %
+Canada,Natural Gas,2020,0 %
+Canada,Natural Gas,2021,0 %
+Chile,Coal,1990,0 %
+Chile,Coal,1991,0 %
+Chile,Coal,1992,0 %
+Chile,Coal,1993,0 %
+Chile,Coal,1994,0 %
+Chile,Coal,1995,0 %
+Chile,Coal,1996,0 %
+Chile,Coal,1997,0 %
+Chile,Coal,1998,0 %
+Chile,Coal,1999,0 %
+Chile,Coal,2000,0 %
+Chile,Coal,2001,0 %
+Chile,Coal,2002,0 %
+Chile,Coal,2003,0 %
+Chile,Coal,2004,0 %
+Chile,Coal,2005,0 %
+Chile,Coal,2006,0 %
+Chile,Coal,2007,0 %
+Chile,Coal,2008,0 %
+Chile,Coal,2009,0 %
+Chile,Coal,2010,0 %
+Chile,Coal,2011,0 %
+Chile,Coal,2012,0 %
+Chile,Coal,2013,0 %
+Chile,Coal,2014,0 %
+Chile,Coal,2015,0 %
+Chile,Coal,2016,1 %
+Chile,Coal,2017,1 %
+Chile,Coal,2018,0 %
+Chile,Coal,2019,1 %
+Chile,Coal,2020,1 %
+Chile,Coal,2021,6 %
+Chile,Oil,1990,0 %
+Chile,Oil,1991,0 %
+Chile,Oil,1992,0 %
+Chile,Oil,1993,0 %
+Chile,Oil,1994,0 %
+Chile,Oil,1995,0 %
+Chile,Oil,1996,0 %
+Chile,Oil,1997,0 %
+Chile,Oil,1998,0 %
+Chile,Oil,1999,0 %
+Chile,Oil,2000,0 %
+Chile,Oil,2001,0 %
+Chile,Oil,2002,0 %
+Chile,Oil,2003,0 %
+Chile,Oil,2004,0 %
+Chile,Oil,2005,0 %
+Chile,Oil,2006,0 %
+Chile,Oil,2007,0 %
+Chile,Oil,2008,0 %
+Chile,Oil,2009,0 %
+Chile,Oil,2010,0 %
+Chile,Oil,2011,0 %
+Chile,Oil,2012,0 %
+Chile,Oil,2013,0 %
+Chile,Oil,2014,0 %
+Chile,Oil,2015,0 %
+Chile,Oil,2016,0 %
+Chile,Oil,2017,0 %
+Chile,Oil,2018,0 %
+Chile,Oil,2019,0 %
+Chile,Oil,2020,0 %
+Chile,Oil,2021,0 %
+Chile,Natural Gas,1990,0 %
+Chile,Natural Gas,1991,0 %
+Chile,Natural Gas,1992,0 %
+Chile,Natural Gas,1993,0 %
+Chile,Natural Gas,1994,0 %
+Chile,Natural Gas,1995,0 %
+Chile,Natural Gas,1996,0 %
+Chile,Natural Gas,1997,0 %
+Chile,Natural Gas,1998,0 %
+Chile,Natural Gas,1999,0 %
+Chile,Natural Gas,2000,0 %
+Chile,Natural Gas,2001,0 %
+Chile,Natural Gas,2002,0 %
+Chile,Natural Gas,2003,0 %
+Chile,Natural Gas,2004,0 %
+Chile,Natural Gas,2005,0 %
+Chile,Natural Gas,2006,0 %
+Chile,Natural Gas,2007,0 %
+Chile,Natural Gas,2008,0 %
+Chile,Natural Gas,2009,0 %
+Chile,Natural Gas,2010,0 %
+Chile,Natural Gas,2011,0 %
+Chile,Natural Gas,2012,0 %
+Chile,Natural Gas,2013,0 %
+Chile,Natural Gas,2014,0 %
+Chile,Natural Gas,2015,0 %
+Chile,Natural Gas,2016,0 %
+Chile,Natural Gas,2017,0 %
+Chile,Natural Gas,2018,0 %
+Chile,Natural Gas,2019,0 %
+Chile,Natural Gas,2020,0 %
+Chile,Natural Gas,2021,0 %
+Colombia,Coal,1990,0 %
+Colombia,Coal,1991,0 %
+Colombia,Coal,1992,0 %
+Colombia,Coal,1993,0 %
+Colombia,Coal,1994,0 %
+Colombia,Coal,1995,0 %
+Colombia,Coal,1996,0 %
+Colombia,Coal,1997,0 %
+Colombia,Coal,1998,0 %
+Colombia,Coal,1999,0 %
+Colombia,Coal,2000,0 %
+Colombia,Coal,2001,0 %
+Colombia,Coal,2002,0 %
+Colombia,Coal,2003,0 %
+Colombia,Coal,2004,0 %
+Colombia,Coal,2005,0 %
+Colombia,Coal,2006,0 %
+Colombia,Coal,2007,0 %
+Colombia,Coal,2008,0 %
+Colombia,Coal,2009,0 %
+Colombia,Coal,2010,0 %
+Colombia,Coal,2011,0 %
+Colombia,Coal,2012,0 %
+Colombia,Coal,2013,0 %
+Colombia,Coal,2014,0 %
+Colombia,Coal,2015,0 %
+Colombia,Coal,2016,0 %
+Colombia,Coal,2017,0 %
+Colombia,Coal,2018,0 %
+Colombia,Coal,2019,0 %
+Colombia,Coal,2020,0 %
+Colombia,Coal,2021,0 %
+Colombia,Oil,1990,0 %
+Colombia,Oil,1991,0 %
+Colombia,Oil,1992,0 %
+Colombia,Oil,1993,0 %
+Colombia,Oil,1994,0 %
+Colombia,Oil,1995,0 %
+Colombia,Oil,1996,0 %
+Colombia,Oil,1997,0 %
+Colombia,Oil,1998,0 %
+Colombia,Oil,1999,0 %
+Colombia,Oil,2000,0 %
+Colombia,Oil,2001,0 %
+Colombia,Oil,2002,0 %
+Colombia,Oil,2003,0 %
+Colombia,Oil,2004,0 %
+Colombia,Oil,2005,0 %
+Colombia,Oil,2006,0 %
+Colombia,Oil,2007,0 %
+Colombia,Oil,2008,0 %
+Colombia,Oil,2009,0 %
+Colombia,Oil,2010,0 %
+Colombia,Oil,2011,0 %
+Colombia,Oil,2012,0 %
+Colombia,Oil,2013,0 %
+Colombia,Oil,2014,0 %
+Colombia,Oil,2015,0 %
+Colombia,Oil,2016,0 %
+Colombia,Oil,2017,0 %
+Colombia,Oil,2018,0 %
+Colombia,Oil,2019,0 %
+Colombia,Oil,2020,0 %
+Colombia,Oil,2021,0 %
+Colombia,Natural Gas,1990,0 %
+Colombia,Natural Gas,1991,0 %
+Colombia,Natural Gas,1992,0 %
+Colombia,Natural Gas,1993,0 %
+Colombia,Natural Gas,1994,0 %
+Colombia,Natural Gas,1995,0 %
+Colombia,Natural Gas,1996,0 %
+Colombia,Natural Gas,1997,0 %
+Colombia,Natural Gas,1998,0 %
+Colombia,Natural Gas,1999,0 %
+Colombia,Natural Gas,2000,0 %
+Colombia,Natural Gas,2001,0 %
+Colombia,Natural Gas,2002,0 %
+Colombia,Natural Gas,2003,0 %
+Colombia,Natural Gas,2004,0 %
+Colombia,Natural Gas,2005,0 %
+Colombia,Natural Gas,2006,0 %
+Colombia,Natural Gas,2007,0 %
+Colombia,Natural Gas,2008,0 %
+Colombia,Natural Gas,2009,0 %
+Colombia,Natural Gas,2010,0 %
+Colombia,Natural Gas,2011,0 %
+Colombia,Natural Gas,2012,0 %
+Colombia,Natural Gas,2013,0 %
+Colombia,Natural Gas,2014,0 %
+Colombia,Natural Gas,2015,0 %
+Colombia,Natural Gas,2016,0 %
+Colombia,Natural Gas,2017,0 %
+Colombia,Natural Gas,2018,0 %
+Colombia,Natural Gas,2019,0 %
+Colombia,Natural Gas,2020,0 %
+Colombia,Natural Gas,2021,0 %
+Costa Rica,Coal,1990,0 %
+Costa Rica,Coal,1991,0 %
+Costa Rica,Coal,1992,0 %
+Costa Rica,Coal,1993,0 %
+Costa Rica,Coal,1994,0 %
+Costa Rica,Coal,1995,0 %
+Costa Rica,Coal,1996,0 %
+Costa Rica,Coal,1997,0 %
+Costa Rica,Coal,1998,0 %
+Costa Rica,Coal,1999,0 %
+Costa Rica,Coal,2000,0 %
+Costa Rica,Coal,2001,0 %
+Costa Rica,Coal,2002,0 %
+Costa Rica,Coal,2003,0 %
+Costa Rica,Coal,2004,0 %
+Costa Rica,Coal,2005,0 %
+Costa Rica,Coal,2006,0 %
+Costa Rica,Coal,2007,0 %
+Costa Rica,Coal,2008,0 %
+Costa Rica,Coal,2009,0 %
+Costa Rica,Coal,2010,0 %
+Costa Rica,Coal,2011,0 %
+Costa Rica,Coal,2012,0 %
+Costa Rica,Coal,2013,0 %
+Costa Rica,Coal,2014,0 %
+Costa Rica,Coal,2015,0 %
+Costa Rica,Coal,2016,0 %
+Costa Rica,Coal,2017,0 %
+Costa Rica,Coal,2018,0 %
+Costa Rica,Coal,2019,0 %
+Costa Rica,Coal,2020,0 %
+Costa Rica,Coal,2021,0 %
+Costa Rica,Oil,1990,0 %
+Costa Rica,Oil,1991,0 %
+Costa Rica,Oil,1992,0 %
+Costa Rica,Oil,1993,0 %
+Costa Rica,Oil,1994,0 %
+Costa Rica,Oil,1995,0 %
+Costa Rica,Oil,1996,0 %
+Costa Rica,Oil,1997,0 %
+Costa Rica,Oil,1998,0 %
+Costa Rica,Oil,1999,0 %
+Costa Rica,Oil,2000,0 %
+Costa Rica,Oil,2001,0 %
+Costa Rica,Oil,2002,0 %
+Costa Rica,Oil,2003,0 %
+Costa Rica,Oil,2004,0 %
+Costa Rica,Oil,2005,0 %
+Costa Rica,Oil,2006,0 %
+Costa Rica,Oil,2007,0 %
+Costa Rica,Oil,2008,0 %
+Costa Rica,Oil,2009,0 %
+Costa Rica,Oil,2010,0 %
+Costa Rica,Oil,2011,0 %
+Costa Rica,Oil,2012,0 %
+Costa Rica,Oil,2013,0 %
+Costa Rica,Oil,2014,0 %
+Costa Rica,Oil,2015,0 %
+Costa Rica,Oil,2016,0 %
+Costa Rica,Oil,2017,0 %
+Costa Rica,Oil,2018,0 %
+Costa Rica,Oil,2019,0 %
+Costa Rica,Oil,2020,0 %
+Costa Rica,Oil,2021,0 %
+Costa Rica,Natural Gas,1990,0 %
+Costa Rica,Natural Gas,1991,0 %
+Costa Rica,Natural Gas,1992,0 %
+Costa Rica,Natural Gas,1993,0 %
+Costa Rica,Natural Gas,1994,0 %
+Costa Rica,Natural Gas,1995,0 %
+Costa Rica,Natural Gas,1996,0 %
+Costa Rica,Natural Gas,1997,0 %
+Costa Rica,Natural Gas,1998,0 %
+Costa Rica,Natural Gas,1999,0 %
+Costa Rica,Natural Gas,2000,0 %
+Costa Rica,Natural Gas,2001,0 %
+Costa Rica,Natural Gas,2002,0 %
+Costa Rica,Natural Gas,2003,0 %
+Costa Rica,Natural Gas,2004,0 %
+Costa Rica,Natural Gas,2005,0 %
+Costa Rica,Natural Gas,2006,0 %
+Costa Rica,Natural Gas,2007,0 %
+Costa Rica,Natural Gas,2008,0 %
+Costa Rica,Natural Gas,2009,0 %
+Costa Rica,Natural Gas,2010,0 %
+Costa Rica,Natural Gas,2011,0 %
+Costa Rica,Natural Gas,2012,0 %
+Costa Rica,Natural Gas,2013,0 %
+Costa Rica,Natural Gas,2014,0 %
+Costa Rica,Natural Gas,2015,0 %
+Costa Rica,Natural Gas,2016,0 %
+Costa Rica,Natural Gas,2017,0 %
+Costa Rica,Natural Gas,2018,0 %
+Costa Rica,Natural Gas,2019,0 %
+Costa Rica,Natural Gas,2020,0 %
+Costa Rica,Natural Gas,2021,0 %
+Croatia,Coal,1990,0 %
+Croatia,Coal,1991,0 %
+Croatia,Coal,1992,0 %
+Croatia,Coal,1993,0 %
+Croatia,Coal,1994,18 %
+Croatia,Coal,1995,2 %
+Croatia,Coal,1996,5 %
+Croatia,Coal,1997,5 %
+Croatia,Coal,1998,0 %
+Croatia,Coal,1999,0 %
+Croatia,Coal,2000,2 %
+Croatia,Coal,2001,1 %
+Croatia,Coal,2002,0 %
+Croatia,Coal,2003,0 %
+Croatia,Coal,2004,0 %
+Croatia,Coal,2005,29 %
+Croatia,Coal,2006,44 %
+Croatia,Coal,2007,31 %
+Croatia,Coal,2008,1 %
+Croatia,Coal,2009,25 %
+Croatia,Coal,2010,24 %
+Croatia,Coal,2011,0 %
+Croatia,Coal,2012,0 %
+Croatia,Coal,2013,20 %
+Croatia,Coal,2014,82 %
+Croatia,Coal,2015,64 %
+Croatia,Coal,2016,73 %
+Croatia,Coal,2017,82 %
+Croatia,Coal,2018,37 %
+Croatia,Coal,2019,94 %
+Croatia,Coal,2020,78 %
+Croatia,Coal,2021,78 %
+Croatia,Oil,1990,0 %
+Croatia,Oil,1991,0 %
+Croatia,Oil,1992,0 %
+Croatia,Oil,1993,0 %
+Croatia,Oil,1994,0 %
+Croatia,Oil,1995,0 %
+Croatia,Oil,1996,0 %
+Croatia,Oil,1997,0 %
+Croatia,Oil,1998,0 %
+Croatia,Oil,1999,76 %
+Croatia,Oil,2000,51 %
+Croatia,Oil,2001,40 %
+Croatia,Oil,2002,70 %
+Croatia,Oil,2003,35 %
+Croatia,Oil,2004,73 %
+Croatia,Oil,2005,78 %
+Croatia,Oil,2006,84 %
+Croatia,Oil,2007,89 %
+Croatia,Oil,2008,80 %
+Croatia,Oil,2009,83 %
+Croatia,Oil,2010,63 %
+Croatia,Oil,2011,60 %
+Croatia,Oil,2012,54 %
+Croatia,Oil,2013,65 %
+Croatia,Oil,2014,36 %
+Croatia,Oil,2015,30 %
+Croatia,Oil,2016,18 %
+Croatia,Oil,2017,19 %
+Croatia,Oil,2018,21 %
+Croatia,Oil,2019,9 %
+Croatia,Oil,2020,13 %
+Croatia,Oil,2021,N/A
+Croatia,Natural Gas,1990,26 %
+Croatia,Natural Gas,1991,32 %
+Croatia,Natural Gas,1992,28 %
+Croatia,Natural Gas,1993,29 %
+Croatia,Natural Gas,1994,29 %
+Croatia,Natural Gas,1995,12 %
+Croatia,Natural Gas,1996,33 %
+Croatia,Natural Gas,1997,38 %
+Croatia,Natural Gas,1998,42 %
+Croatia,Natural Gas,1999,41 %
+Croatia,Natural Gas,2000,41 %
+Croatia,Natural Gas,2001,38 %
+Croatia,Natural Gas,2002,37 %
+Croatia,Natural Gas,2003,39 %
+Croatia,Natural Gas,2004,35 %
+Croatia,Natural Gas,2005,39 %
+Croatia,Natural Gas,2006,39 %
+Croatia,Natural Gas,2007,32 %
+Croatia,Natural Gas,2008,34 %
+Croatia,Natural Gas,2009,34 %
+Croatia,Natural Gas,2010,32 %
+Croatia,Natural Gas,2011,0 %
+Croatia,Natural Gas,2012,0 %
+Croatia,Natural Gas,2013,0 %
+Croatia,Natural Gas,2014,0 %
+Croatia,Natural Gas,2015,0 %
+Croatia,Natural Gas,2016,0 %
+Croatia,Natural Gas,2017,0 %
+Croatia,Natural Gas,2018,0 %
+Croatia,Natural Gas,2019,0 %
+Croatia,Natural Gas,2020,0 %
+Croatia,Natural Gas,2021,0 %
+Cyprus,Coal,1990,0 %
+Cyprus,Coal,1991,0 %
+Cyprus,Coal,1992,0 %
+Cyprus,Coal,1993,0 %
+Cyprus,Coal,1994,0 %
+Cyprus,Coal,1995,0 %
+Cyprus,Coal,1996,0 %
+Cyprus,Coal,1997,0 %
+Cyprus,Coal,1998,78 %
+Cyprus,Coal,1999,84 %
+Cyprus,Coal,2000,59 %
+Cyprus,Coal,2001,111 %
+Cyprus,Coal,2002,123 %
+Cyprus,Coal,2003,89 %
+Cyprus,Coal,2004,0 %
+Cyprus,Coal,2005,0 %
+Cyprus,Coal,2006,0 %
+Cyprus,Coal,2007,0 %
+Cyprus,Coal,2008,0 %
+Cyprus,Coal,2009,0 %
+Cyprus,Coal,2010,0 %
+Cyprus,Coal,2011,0 %
+Cyprus,Coal,2012,0 %
+Cyprus,Coal,2013,0 %
+Cyprus,Coal,2014,0 %
+Cyprus,Coal,2015,0 %
+Cyprus,Coal,2016,0 %
+Cyprus,Coal,2017,230 %
+Cyprus,Coal,2018,50 %
+Cyprus,Coal,2019,118 %
+Cyprus,Coal,2020,105 %
+Cyprus,Coal,2021,98 %
+Cyprus,Oil,1990,0 %
+Cyprus,Oil,1991,0 %
+Cyprus,Oil,1992,0 %
+Cyprus,Oil,1993,0 %
+Cyprus,Oil,1994,0 %
+Cyprus,Oil,1995,0 %
+Cyprus,Oil,1996,0 %
+Cyprus,Oil,1997,0 %
+Cyprus,Oil,1998,0 %
+Cyprus,Oil,1999,3 %
+Cyprus,Oil,2000,29 %
+Cyprus,Oil,2001,23 %
+Cyprus,Oil,2002,63 %
+Cyprus,Oil,2003,26 %
+Cyprus,Oil,2004,4 %
+Cyprus,Oil,2005,0 %
+Cyprus,Oil,2006,0 %
+Cyprus,Oil,2007,0 %
+Cyprus,Oil,2008,0 %
+Cyprus,Oil,2009,0 %
+Cyprus,Oil,2010,0 %
+Cyprus,Oil,2011,0 %
+Cyprus,Oil,2012,0 %
+Cyprus,Oil,2013,0 %
+Cyprus,Oil,2014,0 %
+Cyprus,Oil,2015,0 %
+Cyprus,Oil,2016,0 %
+Cyprus,Oil,2017,0 %
+Cyprus,Oil,2018,1 %
+Cyprus,Oil,2019,2 %
+Cyprus,Oil,2020,1 %
+Cyprus,Oil,2021,N/A
+Cyprus,Natural Gas,1990,0 %
+Cyprus,Natural Gas,1991,0 %
+Cyprus,Natural Gas,1992,0 %
+Cyprus,Natural Gas,1993,0 %
+Cyprus,Natural Gas,1994,0 %
+Cyprus,Natural Gas,1995,0 %
+Cyprus,Natural Gas,1996,0 %
+Cyprus,Natural Gas,1997,0 %
+Cyprus,Natural Gas,1998,0 %
+Cyprus,Natural Gas,1999,0 %
+Cyprus,Natural Gas,2000,0 %
+Cyprus,Natural Gas,2001,0 %
+Cyprus,Natural Gas,2002,0 %
+Cyprus,Natural Gas,2003,0 %
+Cyprus,Natural Gas,2004,0 %
+Cyprus,Natural Gas,2005,0 %
+Cyprus,Natural Gas,2006,0 %
+Cyprus,Natural Gas,2007,0 %
+Cyprus,Natural Gas,2008,0 %
+Cyprus,Natural Gas,2009,0 %
+Cyprus,Natural Gas,2010,0 %
+Cyprus,Natural Gas,2011,0 %
+Cyprus,Natural Gas,2012,0 %
+Cyprus,Natural Gas,2013,0 %
+Cyprus,Natural Gas,2014,0 %
+Cyprus,Natural Gas,2015,0 %
+Cyprus,Natural Gas,2016,0 %
+Cyprus,Natural Gas,2017,0 %
+Cyprus,Natural Gas,2018,0 %
+Cyprus,Natural Gas,2019,0 %
+Cyprus,Natural Gas,2020,0 %
+Cyprus,Natural Gas,2021,0 %
+Czech Republic,Coal,1990,0 %
+Czech Republic,Coal,1991,0 %
+Czech Republic,Coal,1992,0 %
+Czech Republic,Coal,1993,0 %
+Czech Republic,Coal,1994,0 %
+Czech Republic,Coal,1995,0 %
+Czech Republic,Coal,1996,0 %
+Czech Republic,Coal,1997,0 %
+Czech Republic,Coal,1998,0 %
+Czech Republic,Coal,1999,0 %
+Czech Republic,Coal,2000,0 %
+Czech Republic,Coal,2001,0 %
+Czech Republic,Coal,2002,0 %
+Czech Republic,Coal,2003,0 %
+Czech Republic,Coal,2004,0 %
+Czech Republic,Coal,2005,0 %
+Czech Republic,Coal,2006,0 %
+Czech Republic,Coal,2007,0 %
+Czech Republic,Coal,2008,0 %
+Czech Republic,Coal,2009,1 %
+Czech Republic,Coal,2010,1 %
+Czech Republic,Coal,2011,1 %
+Czech Republic,Coal,2012,1 %
+Czech Republic,Coal,2013,0 %
+Czech Republic,Coal,2014,0 %
+Czech Republic,Coal,2015,1 %
+Czech Republic,Coal,2016,1 %
+Czech Republic,Coal,2017,1 %
+Czech Republic,Coal,2018,2 %
+Czech Republic,Coal,2019,2 %
+Czech Republic,Coal,2020,2 %
+Czech Republic,Coal,2021,1 %
+Czech Republic,Oil,1990,0 %
+Czech Republic,Oil,1991,0 %
+Czech Republic,Oil,1992,0 %
+Czech Republic,Oil,1993,0 %
+Czech Republic,Oil,1994,0 %
+Czech Republic,Oil,1995,0 %
+Czech Republic,Oil,1996,87 %
+Czech Republic,Oil,1997,81 %
+Czech Republic,Oil,1998,75 %
+Czech Republic,Oil,1999,63 %
+Czech Republic,Oil,2000,62 %
+Czech Republic,Oil,2001,51 %
+Czech Republic,Oil,2002,48 %
+Czech Republic,Oil,2003,51 %
+Czech Republic,Oil,2004,48 %
+Czech Republic,Oil,2005,57 %
+Czech Republic,Oil,2006,55 %
+Czech Republic,Oil,2007,49 %
+Czech Republic,Oil,2008,56 %
+Czech Republic,Oil,2009,56 %
+Czech Republic,Oil,2010,56 %
+Czech Republic,Oil,2011,47 %
+Czech Republic,Oil,2012,53 %
+Czech Republic,Oil,2013,52 %
+Czech Republic,Oil,2014,48 %
+Czech Republic,Oil,2015,47 %
+Czech Republic,Oil,2016,44 %
+Czech Republic,Oil,2017,44 %
+Czech Republic,Oil,2018,43 %
+Czech Republic,Oil,2019,41 %
+Czech Republic,Oil,2020,36 %
+Czech Republic,Oil,2021,37 %
+Czech Republic,Natural Gas,1990,91 %
+Czech Republic,Natural Gas,1991,109 %
+Czech Republic,Natural Gas,1992,94 %
+Czech Republic,Natural Gas,1993,96 %
+Czech Republic,Natural Gas,1994,99 %
+Czech Republic,Natural Gas,1995,98 %
+Czech Republic,Natural Gas,1996,100 %
+Czech Republic,Natural Gas,1997,90 %
+Czech Republic,Natural Gas,1998,87 %
+Czech Republic,Natural Gas,1999,79 %
+Czech Republic,Natural Gas,2000,78 %
+Czech Republic,Natural Gas,2001,73 %
+Czech Republic,Natural Gas,2002,74 %
+Czech Republic,Natural Gas,2003,73 %
+Czech Republic,Natural Gas,2004,68 %
+Czech Republic,Natural Gas,2005,75 %
+Czech Republic,Natural Gas,2006,78 %
+Czech Republic,Natural Gas,2007,74 %
+Czech Republic,Natural Gas,2008,75 %
+Czech Republic,Natural Gas,2009,68 %
+Czech Republic,Natural Gas,2010,76 %
+Czech Republic,Natural Gas,2011,109 %
+Czech Republic,Natural Gas,2012,89 %
+Czech Republic,Natural Gas,2013,100 %
+Czech Republic,Natural Gas,2014,87 %
+Czech Republic,Natural Gas,2015,95 %
+Czech Republic,Natural Gas,2016,96 %
+Czech Republic,Natural Gas,2017,101 %
+Czech Republic,Natural Gas,2018,96 %
+Czech Republic,Natural Gas,2019,109 %
+Czech Republic,Natural Gas,2020,86 %
+Czech Republic,Natural Gas,2021,92 %
+Denmark,Coal,1990,0 %
+Denmark,Coal,1991,0 %
+Denmark,Coal,1992,0 %
+Denmark,Coal,1993,18 %
+Denmark,Coal,1994,9 %
+Denmark,Coal,1995,11 %
+Denmark,Coal,1996,3 %
+Denmark,Coal,1997,4 %
+Denmark,Coal,1998,2 %
+Denmark,Coal,1999,12 %
+Denmark,Coal,2000,21 %
+Denmark,Coal,2001,28 %
+Denmark,Coal,2002,16 %
+Denmark,Coal,2003,10 %
+Denmark,Coal,2004,27 %
+Denmark,Coal,2005,25 %
+Denmark,Coal,2006,23 %
+Denmark,Coal,2007,30 %
+Denmark,Coal,2008,41 %
+Denmark,Coal,2009,42 %
+Denmark,Coal,2010,22 %
+Denmark,Coal,2011,37 %
+Denmark,Coal,2012,35 %
+Denmark,Coal,2013,36 %
+Denmark,Coal,2014,42 %
+Denmark,Coal,2015,49 %
+Denmark,Coal,2016,58 %
+Denmark,Coal,2017,71 %
+Denmark,Coal,2018,75 %
+Denmark,Coal,2019,149 %
+Denmark,Coal,2020,94 %
+Denmark,Coal,2021,44 %
+Denmark,Oil,1990,0 %
+Denmark,Oil,1991,3 %
+Denmark,Oil,1992,11 %
+Denmark,Oil,1993,14 %
+Denmark,Oil,1994,12 %
+Denmark,Oil,1995,18 %
+Denmark,Oil,1996,9 %
+Denmark,Oil,1997,2 %
+Denmark,Oil,1998,0 %
+Denmark,Oil,1999,0 %
+Denmark,Oil,2000,0 %
+Denmark,Oil,2001,1 %
+Denmark,Oil,2002,2 %
+Denmark,Oil,2003,2 %
+Denmark,Oil,2004,2 %
+Denmark,Oil,2005,3 %
+Denmark,Oil,2006,1 %
+Denmark,Oil,2007,2 %
+Denmark,Oil,2008,1 %
+Denmark,Oil,2009,0 %
+Denmark,Oil,2010,4 %
+Denmark,Oil,2011,8 %
+Denmark,Oil,2012,2 %
+Denmark,Oil,2013,10 %
+Denmark,Oil,2014,13 %
+Denmark,Oil,2015,22 %
+Denmark,Oil,2016,28 %
+Denmark,Oil,2017,15 %
+Denmark,Oil,2018,8 %
+Denmark,Oil,2019,6 %
+Denmark,Oil,2020,13 %
+Denmark,Oil,2021,15 %
+Denmark,Natural Gas,1990,0 %
+Denmark,Natural Gas,1991,0 %
+Denmark,Natural Gas,1992,0 %
+Denmark,Natural Gas,1993,0 %
+Denmark,Natural Gas,1994,0 %
+Denmark,Natural Gas,1995,0 %
+Denmark,Natural Gas,1996,0 %
+Denmark,Natural Gas,1997,0 %
+Denmark,Natural Gas,1998,0 %
+Denmark,Natural Gas,1999,0 %
+Denmark,Natural Gas,2000,0 %
+Denmark,Natural Gas,2001,0 %
+Denmark,Natural Gas,2002,0 %
+Denmark,Natural Gas,2003,0 %
+Denmark,Natural Gas,2004,0 %
+Denmark,Natural Gas,2005,0 %
+Denmark,Natural Gas,2006,0 %
+Denmark,Natural Gas,2007,0 %
+Denmark,Natural Gas,2008,0 %
+Denmark,Natural Gas,2009,0 %
+Denmark,Natural Gas,2010,0 %
+Denmark,Natural Gas,2011,0 %
+Denmark,Natural Gas,2012,0 %
+Denmark,Natural Gas,2013,0 %
+Denmark,Natural Gas,2014,0 %
+Denmark,Natural Gas,2015,0 %
+Denmark,Natural Gas,2016,0 %
+Denmark,Natural Gas,2017,0 %
+Denmark,Natural Gas,2018,0 %
+Denmark,Natural Gas,2019,0 %
+Denmark,Natural Gas,2020,0 %
+Denmark,Natural Gas,2021,0 %
+Estonia,Coal,1990,3 %
+Estonia,Coal,1991,3 %
+Estonia,Coal,1992,4 %
+Estonia,Coal,1993,1 %
+Estonia,Coal,1994,2 %
+Estonia,Coal,1995,2 %
+Estonia,Coal,1996,2 %
+Estonia,Coal,1997,1 %
+Estonia,Coal,1998,2 %
+Estonia,Coal,1999,2 %
+Estonia,Coal,2000,2 %
+Estonia,Coal,2001,2 %
+Estonia,Coal,2002,1 %
+Estonia,Coal,2003,1 %
+Estonia,Coal,2004,1 %
+Estonia,Coal,2005,1 %
+Estonia,Coal,2006,2 %
+Estonia,Coal,2007,3 %
+Estonia,Coal,2008,0 %
+Estonia,Coal,2009,1 %
+Estonia,Coal,2010,1 %
+Estonia,Coal,2011,1 %
+Estonia,Coal,2012,1 %
+Estonia,Coal,2013,1 %
+Estonia,Coal,2014,1 %
+Estonia,Coal,2015,0 %
+Estonia,Coal,2016,0 %
+Estonia,Coal,2017,1 %
+Estonia,Coal,2018,1 %
+Estonia,Coal,2019,1 %
+Estonia,Coal,2020,0 %
+Estonia,Coal,2021,0 %
+Estonia,Oil,1990,0 %
+Estonia,Oil,1991,0 %
+Estonia,Oil,1992,0 %
+Estonia,Oil,1993,0 %
+Estonia,Oil,1994,0 %
+Estonia,Oil,1995,0 %
+Estonia,Oil,1996,0 %
+Estonia,Oil,1997,0 %
+Estonia,Oil,1998,0 %
+Estonia,Oil,1999,12 %
+Estonia,Oil,2000,11 %
+Estonia,Oil,2001,7 %
+Estonia,Oil,2002,9 %
+Estonia,Oil,2003,6 %
+Estonia,Oil,2004,8 %
+Estonia,Oil,2005,6 %
+Estonia,Oil,2006,11 %
+Estonia,Oil,2007,8 %
+Estonia,Oil,2008,9 %
+Estonia,Oil,2009,9 %
+Estonia,Oil,2010,8 %
+Estonia,Oil,2011,2 %
+Estonia,Oil,2012,45 %
+Estonia,Oil,2013,21 %
+Estonia,Oil,2014,22 %
+Estonia,Oil,2015,46 %
+Estonia,Oil,2016,28 %
+Estonia,Oil,2017,101 %
+Estonia,Oil,2018,162 %
+Estonia,Oil,2019,-864 %
+Estonia,Oil,2020,-398 %
+Estonia,Oil,2021,6782 %
+Estonia,Natural Gas,1990,100 %
+Estonia,Natural Gas,1991,100 %
+Estonia,Natural Gas,1992,100 %
+Estonia,Natural Gas,1993,100 %
+Estonia,Natural Gas,1994,100 %
+Estonia,Natural Gas,1995,100 %
+Estonia,Natural Gas,1996,100 %
+Estonia,Natural Gas,1997,100 %
+Estonia,Natural Gas,1998,100 %
+Estonia,Natural Gas,1999,100 %
+Estonia,Natural Gas,2000,100 %
+Estonia,Natural Gas,2001,100 %
+Estonia,Natural Gas,2002,100 %
+Estonia,Natural Gas,2003,100 %
+Estonia,Natural Gas,2004,100 %
+Estonia,Natural Gas,2005,100 %
+Estonia,Natural Gas,2006,100 %
+Estonia,Natural Gas,2007,100 %
+Estonia,Natural Gas,2008,100 %
+Estonia,Natural Gas,2009,100 %
+Estonia,Natural Gas,2010,100 %
+Estonia,Natural Gas,2011,100 %
+Estonia,Natural Gas,2012,100 %
+Estonia,Natural Gas,2013,100 %
+Estonia,Natural Gas,2014,100 %
+Estonia,Natural Gas,2015,100 %
+Estonia,Natural Gas,2016,100 %
+Estonia,Natural Gas,2017,100 %
+Estonia,Natural Gas,2018,100 %
+Estonia,Natural Gas,2019,104 %
+Estonia,Natural Gas,2020,49 %
+Estonia,Natural Gas,2021,100 %
+Finland,Coal,1990,35 %
+Finland,Coal,1991,12 %
+Finland,Coal,1992,18 %
+Finland,Coal,1993,20 %
+Finland,Coal,1994,21 %
+Finland,Coal,1995,17 %
+Finland,Coal,1996,15 %
+Finland,Coal,1997,13 %
+Finland,Coal,1998,9 %
+Finland,Coal,1999,18 %
+Finland,Coal,2000,32 %
+Finland,Coal,2001,30 %
+Finland,Coal,2002,25 %
+Finland,Coal,2003,41 %
+Finland,Coal,2004,45 %
+Finland,Coal,2005,35 %
+Finland,Coal,2006,32 %
+Finland,Coal,2007,43 %
+Finland,Coal,2008,44 %
+Finland,Coal,2009,55 %
+Finland,Coal,2010,35 %
+Finland,Coal,2011,55 %
+Finland,Coal,2012,37 %
+Finland,Coal,2013,45 %
+Finland,Coal,2014,55 %
+Finland,Coal,2015,36 %
+Finland,Coal,2016,39 %
+Finland,Coal,2017,41 %
+Finland,Coal,2018,41 %
+Finland,Coal,2019,38 %
+Finland,Coal,2020,30 %
+Finland,Coal,2021,22 %
+Finland,Oil,1990,2 %
+Finland,Oil,1991,4 %
+Finland,Oil,1992,32 %
+Finland,Oil,1993,27 %
+Finland,Oil,1994,41 %
+Finland,Oil,1995,28 %
+Finland,Oil,1996,31 %
+Finland,Oil,1997,46 %
+Finland,Oil,1998,56 %
+Finland,Oil,1999,60 %
+Finland,Oil,2000,63 %
+Finland,Oil,2001,63 %
+Finland,Oil,2002,68 %
+Finland,Oil,2003,82 %
+Finland,Oil,2004,95 %
+Finland,Oil,2005,91 %
+Finland,Oil,2006,79 %
+Finland,Oil,2007,97 %
+Finland,Oil,2008,108 %
+Finland,Oil,2009,116 %
+Finland,Oil,2010,119 %
+Finland,Oil,2011,117 %
+Finland,Oil,2012,124 %
+Finland,Oil,2013,145 %
+Finland,Oil,2014,116 %
+Finland,Oil,2015,133 %
+Finland,Oil,2016,141 %
+Finland,Oil,2017,144 %
+Finland,Oil,2018,144 %
+Finland,Oil,2019,160 %
+Finland,Oil,2020,137 %
+Finland,Oil,2021,112 %
+Finland,Natural Gas,1990,100 %
+Finland,Natural Gas,1991,100 %
+Finland,Natural Gas,1992,100 %
+Finland,Natural Gas,1993,100 %
+Finland,Natural Gas,1994,100 %
+Finland,Natural Gas,1995,100 %
+Finland,Natural Gas,1996,100 %
+Finland,Natural Gas,1997,100 %
+Finland,Natural Gas,1998,100 %
+Finland,Natural Gas,1999,100 %
+Finland,Natural Gas,2000,100 %
+Finland,Natural Gas,2001,100 %
+Finland,Natural Gas,2002,100 %
+Finland,Natural Gas,2003,100 %
+Finland,Natural Gas,2004,100 %
+Finland,Natural Gas,2005,100 %
+Finland,Natural Gas,2006,100 %
+Finland,Natural Gas,2007,100 %
+Finland,Natural Gas,2008,100 %
+Finland,Natural Gas,2009,100 %
+Finland,Natural Gas,2010,100 %
+Finland,Natural Gas,2011,100 %
+Finland,Natural Gas,2012,100 %
+Finland,Natural Gas,2013,100 %
+Finland,Natural Gas,2014,100 %
+Finland,Natural Gas,2015,100 %
+Finland,Natural Gas,2016,100 %
+Finland,Natural Gas,2017,99 %
+Finland,Natural Gas,2018,98 %
+Finland,Natural Gas,2019,98 %
+Finland,Natural Gas,2020,68 %
+Finland,Natural Gas,2021,75 %
+France,Coal,1990,2 %
+France,Coal,1991,3 %
+France,Coal,1992,3 %
+France,Coal,1993,1 %
+France,Coal,1994,1 %
+France,Coal,1995,1 %
+France,Coal,1996,0 %
+France,Coal,1997,0 %
+France,Coal,1998,0 %
+France,Coal,1999,1 %
+France,Coal,2000,2 %
+France,Coal,2001,1 %
+France,Coal,2002,1 %
+France,Coal,2003,2 %
+France,Coal,2004,4 %
+France,Coal,2005,4 %
+France,Coal,2006,6 %
+France,Coal,2007,5 %
+France,Coal,2008,9 %
+France,Coal,2009,9 %
+France,Coal,2010,15 %
+France,Coal,2011,14 %
+France,Coal,2012,14 %
+France,Coal,2013,15 %
+France,Coal,2014,18 %
+France,Coal,2015,17 %
+France,Coal,2016,19 %
+France,Coal,2017,26 %
+France,Coal,2018,30 %
+France,Coal,2019,24 %
+France,Coal,2020,29 %
+France,Coal,2021,20 %
+France,Oil,1990,6 %
+France,Oil,1991,2 %
+France,Oil,1992,8 %
+France,Oil,1993,8 %
+France,Oil,1994,7 %
+France,Oil,1995,8 %
+France,Oil,1996,10 %
+France,Oil,1997,10 %
+France,Oil,1998,6 %
+France,Oil,1999,8 %
+France,Oil,2000,7 %
+France,Oil,2001,10 %
+France,Oil,2002,13 %
+France,Oil,2003,15 %
+France,Oil,2004,15 %
+France,Oil,2005,12 %
+France,Oil,2006,12 %
+France,Oil,2007,13 %
+France,Oil,2008,15 %
+France,Oil,2009,15 %
+France,Oil,2010,17 %
+France,Oil,2011,14 %
+France,Oil,2012,12 %
+France,Oil,2013,11 %
+France,Oil,2014,9 %
+France,Oil,2015,7 %
+France,Oil,2016,9 %
+France,Oil,2017,13 %
+France,Oil,2018,12 %
+France,Oil,2019,10 %
+France,Oil,2020,5 %
+France,Oil,2021,5 %
+France,Natural Gas,1990,32 %
+France,Natural Gas,1991,32 %
+France,Natural Gas,1992,34 %
+France,Natural Gas,1993,31 %
+France,Natural Gas,1994,35 %
+France,Natural Gas,1995,35 %
+France,Natural Gas,1996,30 %
+France,Natural Gas,1997,28 %
+France,Natural Gas,1998,26 %
+France,Natural Gas,1999,30 %
+France,Natural Gas,2000,29 %
+France,Natural Gas,2001,24 %
+France,Natural Gas,2002,24 %
+France,Natural Gas,2003,23 %
+France,Natural Gas,2004,21 %
+France,Natural Gas,2005,20 %
+France,Natural Gas,2006,16 %
+France,Natural Gas,2007,13 %
+France,Natural Gas,2008,15 %
+France,Natural Gas,2009,16 %
+France,Natural Gas,2010,14 %
+France,Natural Gas,2011,16 %
+France,Natural Gas,2012,18 %
+France,Natural Gas,2013,22 %
+France,Natural Gas,2014,16 %
+France,Natural Gas,2015,14 %
+France,Natural Gas,2016,21 %
+France,Natural Gas,2017,20 %
+France,Natural Gas,2018,23 %
+France,Natural Gas,2019,25 %
+France,Natural Gas,2020,20 %
+France,Natural Gas,2021,27 %
+Germany,Coal,1990,0 %
+Germany,Coal,1991,0 %
+Germany,Coal,1992,0 %
+Germany,Coal,1993,0 %
+Germany,Coal,1994,0 %
+Germany,Coal,1995,0 %
+Germany,Coal,1996,0 %
+Germany,Coal,1997,0 %
+Germany,Coal,1998,0 %
+Germany,Coal,1999,1 %
+Germany,Coal,2000,1 %
+Germany,Coal,2001,2 %
+Germany,Coal,2002,2 %
+Germany,Coal,2003,2 %
+Germany,Coal,2004,4 %
+Germany,Coal,2005,6 %
+Germany,Coal,2006,6 %
+Germany,Coal,2007,7 %
+Germany,Coal,2008,7 %
+Germany,Coal,2009,8 %
+Germany,Coal,2010,9 %
+Germany,Coal,2011,8 %
+Germany,Coal,2012,8 %
+Germany,Coal,2013,10 %
+Germany,Coal,2014,11 %
+Germany,Coal,2015,12 %
+Germany,Coal,2016,14 %
+Germany,Coal,2017,17 %
+Germany,Coal,2018,17 %
+Germany,Coal,2019,22 %
+Germany,Coal,2020,20 %
+Germany,Coal,2021,24 %
+Germany,Oil,1990,0 %
+Germany,Oil,1991,0 %
+Germany,Oil,1992,8 %
+Germany,Oil,1993,13 %
+Germany,Oil,1994,18 %
+Germany,Oil,1995,16 %
+Germany,Oil,1996,20 %
+Germany,Oil,1997,19 %
+Germany,Oil,1998,20 %
+Germany,Oil,1999,22 %
+Germany,Oil,2000,24 %
+Germany,Oil,2001,24 %
+Germany,Oil,2002,26 %
+Germany,Oil,2003,28 %
+Germany,Oil,2004,32 %
+Germany,Oil,2005,33 %
+Germany,Oil,2006,32 %
+Germany,Oil,2007,33 %
+Germany,Oil,2008,31 %
+Germany,Oil,2009,34 %
+Germany,Oil,2010,33 %
+Germany,Oil,2011,35 %
+Germany,Oil,2012,35 %
+Germany,Oil,2013,31 %
+Germany,Oil,2014,30 %
+Germany,Oil,2015,33 %
+Germany,Oil,2016,36 %
+Germany,Oil,2017,33 %
+Germany,Oil,2018,32 %
+Germany,Oil,2019,28 %
+Germany,Oil,2020,30 %
+Germany,Oil,2021,31 %
+Germany,Natural Gas,1990,38 %
+Germany,Natural Gas,1991,33 %
+Germany,Natural Gas,1992,32 %
+Germany,Natural Gas,1993,34 %
+Germany,Natural Gas,1994,38 %
+Germany,Natural Gas,1995,38 %
+Germany,Natural Gas,1996,35 %
+Germany,Natural Gas,1997,34 %
+Germany,Natural Gas,1998,36 %
+Germany,Natural Gas,1999,39 %
+Germany,Natural Gas,2000,39 %
+Germany,Natural Gas,2001,35 %
+Germany,Natural Gas,2002,36 %
+Germany,Natural Gas,2003,37 %
+Germany,Natural Gas,2004,41 %
+Germany,Natural Gas,2005,41 %
+Germany,Natural Gas,2006,40 %
+Germany,Natural Gas,2007,41 %
+Germany,Natural Gas,2008,42 %
+Germany,Natural Gas,2009,34 %
+Germany,Natural Gas,2010,38 %
+Germany,Natural Gas,2011,40 %
+Germany,Natural Gas,2012,39 %
+Germany,Natural Gas,2013,46 %
+Germany,Natural Gas,2014,49 %
+Germany,Natural Gas,2015,56 %
+Germany,Natural Gas,2016,70 %
+Germany,Natural Gas,2017,69 %
+Germany,Natural Gas,2018,49 %
+Germany,Natural Gas,2019,51 %
+Germany,Natural Gas,2020,59 %
+Germany,Natural Gas,2021,60 %
+Greece,Coal,1990,3 %
+Greece,Coal,1991,2 %
+Greece,Coal,1992,7 %
+Greece,Coal,1993,3 %
+Greece,Coal,1994,2 %
+Greece,Coal,1995,2 %
+Greece,Coal,1996,1 %
+Greece,Coal,1997,1 %
+Greece,Coal,1998,0 %
+Greece,Coal,1999,1 %
+Greece,Coal,2000,2 %
+Greece,Coal,2001,4 %
+Greece,Coal,2002,3 %
+Greece,Coal,2003,2 %
+Greece,Coal,2004,4 %
+Greece,Coal,2005,3 %
+Greece,Coal,2006,2 %
+Greece,Coal,2007,3 %
+Greece,Coal,2008,2 %
+Greece,Coal,2009,2 %
+Greece,Coal,2010,3 %
+Greece,Coal,2011,1 %
+Greece,Coal,2012,0 %
+Greece,Coal,2013,1 %
+Greece,Coal,2014,2 %
+Greece,Coal,2015,2 %
+Greece,Coal,2016,4 %
+Greece,Coal,2017,5 %
+Greece,Coal,2018,5 %
+Greece,Coal,2019,6 %
+Greece,Coal,2020,9 %
+Greece,Coal,2021,9 %
+Greece,Oil,1990,11 %
+Greece,Oil,1991,12 %
+Greece,Oil,1992,10 %
+Greece,Oil,1993,12 %
+Greece,Oil,1994,18 %
+Greece,Oil,1995,20 %
+Greece,Oil,1996,20 %
+Greece,Oil,1997,18 %
+Greece,Oil,1998,8 %
+Greece,Oil,1999,12 %
+Greece,Oil,2000,32 %
+Greece,Oil,2001,40 %
+Greece,Oil,2002,61 %
+Greece,Oil,2003,52 %
+Greece,Oil,2004,39 %
+Greece,Oil,2005,39 %
+Greece,Oil,2006,36 %
+Greece,Oil,2007,45 %
+Greece,Oil,2008,45 %
+Greece,Oil,2009,46 %
+Greece,Oil,2010,57 %
+Greece,Oil,2011,38 %
+Greece,Oil,2012,68 %
+Greece,Oil,2013,77 %
+Greece,Oil,2014,77 %
+Greece,Oil,2015,71 %
+Greece,Oil,2016,58 %
+Greece,Oil,2017,57 %
+Greece,Oil,2018,73 %
+Greece,Oil,2019,57 %
+Greece,Oil,2020,83 %
+Greece,Oil,2021,64 %
+Greece,Natural Gas,1990,0 %
+Greece,Natural Gas,1991,0 %
+Greece,Natural Gas,1992,0 %
+Greece,Natural Gas,1993,0 %
+Greece,Natural Gas,1994,0 %
+Greece,Natural Gas,1995,0 %
+Greece,Natural Gas,1996,16 %
+Greece,Natural Gas,1997,76 %
+Greece,Natural Gas,1998,95 %
+Greece,Natural Gas,1999,100 %
+Greece,Natural Gas,2000,73 %
+Greece,Natural Gas,2001,73 %
+Greece,Natural Gas,2002,73 %
+Greece,Natural Gas,2003,75 %
+Greece,Natural Gas,2004,80 %
+Greece,Natural Gas,2005,83 %
+Greece,Natural Gas,2006,80 %
+Greece,Natural Gas,2007,76 %
+Greece,Natural Gas,2008,65 %
+Greece,Natural Gas,2009,56 %
+Greece,Natural Gas,2010,52 %
+Greece,Natural Gas,2011,59 %
+Greece,Natural Gas,2012,55 %
+Greece,Natural Gas,2013,66 %
+Greece,Natural Gas,2014,57 %
+Greece,Natural Gas,2015,61 %
+Greece,Natural Gas,2016,63 %
+Greece,Natural Gas,2017,58 %
+Greece,Natural Gas,2018,65 %
+Greece,Natural Gas,2019,31 %
+Greece,Natural Gas,2020,39 %
+Greece,Natural Gas,2021,40 %
+Hungary,Coal,1990,7 %
+Hungary,Coal,1991,10 %
+Hungary,Coal,1992,0 %
+Hungary,Coal,1993,3 %
+Hungary,Coal,1994,1 %
+Hungary,Coal,1995,1 %
+Hungary,Coal,1996,0 %
+Hungary,Coal,1997,2 %
+Hungary,Coal,1998,2 %
+Hungary,Coal,1999,3 %
+Hungary,Coal,2000,4 %
+Hungary,Coal,2001,3 %
+Hungary,Coal,2002,3 %
+Hungary,Coal,2003,6 %
+Hungary,Coal,2004,12 %
+Hungary,Coal,2005,16 %
+Hungary,Coal,2006,13 %
+Hungary,Coal,2007,15 %
+Hungary,Coal,2008,13 %
+Hungary,Coal,2009,13 %
+Hungary,Coal,2010,6 %
+Hungary,Coal,2011,2 %
+Hungary,Coal,2012,1 %
+Hungary,Coal,2013,1 %
+Hungary,Coal,2014,1 %
+Hungary,Coal,2015,1 %
+Hungary,Coal,2016,1 %
+Hungary,Coal,2017,4 %
+Hungary,Coal,2018,8 %
+Hungary,Coal,2019,5 %
+Hungary,Coal,2020,11 %
+Hungary,Coal,2021,10 %
+Hungary,Oil,1990,0 %
+Hungary,Oil,1991,0 %
+Hungary,Oil,1992,0 %
+Hungary,Oil,1993,0 %
+Hungary,Oil,1994,0 %
+Hungary,Oil,1995,0 %
+Hungary,Oil,1996,0 %
+Hungary,Oil,1997,83 %
+Hungary,Oil,1998,88 %
+Hungary,Oil,1999,87 %
+Hungary,Oil,2000,88 %
+Hungary,Oil,2001,88 %
+Hungary,Oil,2002,80 %
+Hungary,Oil,2003,87 %
+Hungary,Oil,2004,88 %
+Hungary,Oil,2005,93 %
+Hungary,Oil,2006,93 %
+Hungary,Oil,2007,94 %
+Hungary,Oil,2008,97 %
+Hungary,Oil,2009,82 %
+Hungary,Oil,2010,90 %
+Hungary,Oil,2011,99 %
+Hungary,Oil,2012,94 %
+Hungary,Oil,2013,93 %
+Hungary,Oil,2014,90 %
+Hungary,Oil,2015,78 %
+Hungary,Oil,2016,75 %
+Hungary,Oil,2017,56 %
+Hungary,Oil,2018,61 %
+Hungary,Oil,2019,61 %
+Hungary,Oil,2020,53 %
+Hungary,Oil,2021,46 %
+Hungary,Natural Gas,1990,58 %
+Hungary,Natural Gas,1991,56 %
+Hungary,Natural Gas,1992,53 %
+Hungary,Natural Gas,1993,57 %
+Hungary,Natural Gas,1994,53 %
+Hungary,Natural Gas,1995,60 %
+Hungary,Natural Gas,1996,71 %
+Hungary,Natural Gas,1997,53 %
+Hungary,Natural Gas,1998,59 %
+Hungary,Natural Gas,1999,63 %
+Hungary,Natural Gas,2000,67 %
+Hungary,Natural Gas,2001,64 %
+Hungary,Natural Gas,2002,72 %
+Hungary,Natural Gas,2003,76 %
+Hungary,Natural Gas,2004,64 %
+Hungary,Natural Gas,2005,60 %
+Hungary,Natural Gas,2006,66 %
+Hungary,Natural Gas,2007,60 %
+Hungary,Natural Gas,2008,69 %
+Hungary,Natural Gas,2009,71 %
+Hungary,Natural Gas,2010,76 %
+Hungary,Natural Gas,2011,70 %
+Hungary,Natural Gas,2012,79 %
+Hungary,Natural Gas,2013,83 %
+Hungary,Natural Gas,2014,101 %
+Hungary,Natural Gas,2015,72 %
+Hungary,Natural Gas,2016,75 %
+Hungary,Natural Gas,2017,91 %
+Hungary,Natural Gas,2018,74 %
+Hungary,Natural Gas,2019,109 %
+Hungary,Natural Gas,2020,72 %
+Hungary,Natural Gas,2021,64 %
+Iceland,Coal,1990,0 %
+Iceland,Coal,1991,0 %
+Iceland,Coal,1992,0 %
+Iceland,Coal,1993,0 %
+Iceland,Coal,1994,0 %
+Iceland,Coal,1995,0 %
+Iceland,Coal,1996,0 %
+Iceland,Coal,1997,0 %
+Iceland,Coal,1998,0 %
+Iceland,Coal,1999,0 %
+Iceland,Coal,2000,0 %
+Iceland,Coal,2001,0 %
+Iceland,Coal,2002,0 %
+Iceland,Coal,2003,0 %
+Iceland,Coal,2004,0 %
+Iceland,Coal,2005,0 %
+Iceland,Coal,2006,0 %
+Iceland,Coal,2007,0 %
+Iceland,Coal,2008,0 %
+Iceland,Coal,2009,7 %
+Iceland,Coal,2010,0 %
+Iceland,Coal,2011,0 %
+Iceland,Coal,2012,0 %
+Iceland,Coal,2013,0 %
+Iceland,Coal,2014,0 %
+Iceland,Coal,2015,0 %
+Iceland,Coal,2016,0 %
+Iceland,Coal,2017,0 %
+Iceland,Coal,2018,0 %
+Iceland,Coal,2019,0 %
+Iceland,Coal,2020,0 %
+Iceland,Coal,2021,0 %
+Iceland,Oil,1990,6 %
+Iceland,Oil,1991,6 %
+Iceland,Oil,1992,7 %
+Iceland,Oil,1993,7 %
+Iceland,Oil,1994,7 %
+Iceland,Oil,1995,8 %
+Iceland,Oil,1996,3 %
+Iceland,Oil,1997,7 %
+Iceland,Oil,1998,4 %
+Iceland,Oil,1999,5 %
+Iceland,Oil,2000,4 %
+Iceland,Oil,2001,3 %
+Iceland,Oil,2002,4 %
+Iceland,Oil,2003,2 %
+Iceland,Oil,2004,2 %
+Iceland,Oil,2005,2 %
+Iceland,Oil,2006,1 %
+Iceland,Oil,2007,1 %
+Iceland,Oil,2008,2 %
+Iceland,Oil,2009,2 %
+Iceland,Oil,2010,1 %
+Iceland,Oil,2011,2 %
+Iceland,Oil,2012,2 %
+Iceland,Oil,2013,2 %
+Iceland,Oil,2014,1 %
+Iceland,Oil,2015,0 %
+Iceland,Oil,2016,0 %
+Iceland,Oil,2017,0 %
+Iceland,Oil,2018,2 %
+Iceland,Oil,2019,0 %
+Iceland,Oil,2020,0 %
+Iceland,Oil,2021,0 %
+Iceland,Natural Gas,1990,0 %
+Iceland,Natural Gas,1991,0 %
+Iceland,Natural Gas,1992,0 %
+Iceland,Natural Gas,1993,0 %
+Iceland,Natural Gas,1994,0 %
+Iceland,Natural Gas,1995,0 %
+Iceland,Natural Gas,1996,0 %
+Iceland,Natural Gas,1997,0 %
+Iceland,Natural Gas,1998,0 %
+Iceland,Natural Gas,1999,0 %
+Iceland,Natural Gas,2000,0 %
+Iceland,Natural Gas,2001,0 %
+Iceland,Natural Gas,2002,0 %
+Iceland,Natural Gas,2003,0 %
+Iceland,Natural Gas,2004,0 %
+Iceland,Natural Gas,2005,0 %
+Iceland,Natural Gas,2006,0 %
+Iceland,Natural Gas,2007,0 %
+Iceland,Natural Gas,2008,0 %
+Iceland,Natural Gas,2009,0 %
+Iceland,Natural Gas,2010,0 %
+Iceland,Natural Gas,2011,0 %
+Iceland,Natural Gas,2012,0 %
+Iceland,Natural Gas,2013,0 %
+Iceland,Natural Gas,2014,0 %
+Iceland,Natural Gas,2015,0 %
+Iceland,Natural Gas,2016,0 %
+Iceland,Natural Gas,2017,0 %
+Iceland,Natural Gas,2018,0 %
+Iceland,Natural Gas,2019,0 %
+Iceland,Natural Gas,2020,0 %
+Iceland,Natural Gas,2021,0 %
+Ireland,Coal,1990,0 %
+Ireland,Coal,1991,0 %
+Ireland,Coal,1992,0 %
+Ireland,Coal,1993,1 %
+Ireland,Coal,1994,0 %
+Ireland,Coal,1995,0 %
+Ireland,Coal,1996,0 %
+Ireland,Coal,1997,0 %
+Ireland,Coal,1998,0 %
+Ireland,Coal,1999,3 %
+Ireland,Coal,2000,0 %
+Ireland,Coal,2001,0 %
+Ireland,Coal,2002,0 %
+Ireland,Coal,2003,0 %
+Ireland,Coal,2004,0 %
+Ireland,Coal,2005,0 %
+Ireland,Coal,2006,0 %
+Ireland,Coal,2007,0 %
+Ireland,Coal,2008,0 %
+Ireland,Coal,2009,0 %
+Ireland,Coal,2010,0 %
+Ireland,Coal,2011,0 %
+Ireland,Coal,2012,0 %
+Ireland,Coal,2013,0 %
+Ireland,Coal,2014,0 %
+Ireland,Coal,2015,0 %
+Ireland,Coal,2016,6 %
+Ireland,Coal,2017,0 %
+Ireland,Coal,2018,1 %
+Ireland,Coal,2019,2 %
+Ireland,Coal,2020,6 %
+Ireland,Coal,2021,8 %
+Ireland,Oil,1990,0 %
+Ireland,Oil,1991,0 %
+Ireland,Oil,1992,0 %
+Ireland,Oil,1993,0 %
+Ireland,Oil,1994,0 %
+Ireland,Oil,1995,0 %
+Ireland,Oil,1996,2 %
+Ireland,Oil,1997,0 %
+Ireland,Oil,1998,0 %
+Ireland,Oil,1999,0 %
+Ireland,Oil,2000,0 %
+Ireland,Oil,2001,0 %
+Ireland,Oil,2002,0 %
+Ireland,Oil,2003,0 %
+Ireland,Oil,2004,0 %
+Ireland,Oil,2005,0 %
+Ireland,Oil,2006,0 %
+Ireland,Oil,2007,0 %
+Ireland,Oil,2008,0 %
+Ireland,Oil,2009,0 %
+Ireland,Oil,2010,0 %
+Ireland,Oil,2011,0 %
+Ireland,Oil,2012,0 %
+Ireland,Oil,2013,0 %
+Ireland,Oil,2014,0 %
+Ireland,Oil,2015,0 %
+Ireland,Oil,2016,0 %
+Ireland,Oil,2017,0 %
+Ireland,Oil,2018,0 %
+Ireland,Oil,2019,0 %
+Ireland,Oil,2020,0 %
+Ireland,Oil,2021,0 %
+Ireland,Natural Gas,1990,0 %
+Ireland,Natural Gas,1991,0 %
+Ireland,Natural Gas,1992,0 %
+Ireland,Natural Gas,1993,0 %
+Ireland,Natural Gas,1994,0 %
+Ireland,Natural Gas,1995,0 %
+Ireland,Natural Gas,1996,0 %
+Ireland,Natural Gas,1997,0 %
+Ireland,Natural Gas,1998,0 %
+Ireland,Natural Gas,1999,0 %
+Ireland,Natural Gas,2000,0 %
+Ireland,Natural Gas,2001,0 %
+Ireland,Natural Gas,2002,0 %
+Ireland,Natural Gas,2003,0 %
+Ireland,Natural Gas,2004,0 %
+Ireland,Natural Gas,2005,0 %
+Ireland,Natural Gas,2006,0 %
+Ireland,Natural Gas,2007,0 %
+Ireland,Natural Gas,2008,0 %
+Ireland,Natural Gas,2009,0 %
+Ireland,Natural Gas,2010,0 %
+Ireland,Natural Gas,2011,0 %
+Ireland,Natural Gas,2012,0 %
+Ireland,Natural Gas,2013,0 %
+Ireland,Natural Gas,2014,0 %
+Ireland,Natural Gas,2015,0 %
+Ireland,Natural Gas,2016,0 %
+Ireland,Natural Gas,2017,0 %
+Ireland,Natural Gas,2018,0 %
+Ireland,Natural Gas,2019,0 %
+Ireland,Natural Gas,2020,0 %
+Ireland,Natural Gas,2021,0 %
+Israel,Coal,1990,0 %
+Israel,Coal,1991,0 %
+Israel,Coal,1992,0 %
+Israel,Coal,1993,0 %
+Israel,Coal,1994,0 %
+Israel,Coal,1995,0 %
+Israel,Coal,1996,0 %
+Israel,Coal,1997,0 %
+Israel,Coal,1998,0 %
+Israel,Coal,1999,0 %
+Israel,Coal,2000,0 %
+Israel,Coal,2001,0 %
+Israel,Coal,2002,0 %
+Israel,Coal,2003,0 %
+Israel,Coal,2004,0 %
+Israel,Coal,2005,0 %
+Israel,Coal,2006,0 %
+Israel,Coal,2007,0 %
+Israel,Coal,2008,0 %
+Israel,Coal,2009,18 %
+Israel,Coal,2010,16 %
+Israel,Coal,2011,14 %
+Israel,Coal,2012,20 %
+Israel,Coal,2013,23 %
+Israel,Coal,2014,23 %
+Israel,Coal,2015,21 %
+Israel,Coal,2016,28 %
+Israel,Coal,2017,38 %
+Israel,Coal,2018,0 %
+Israel,Coal,2019,0 %
+Israel,Coal,2020,0 %
+Israel,Coal,2021,0 %
+Israel,Oil,1990,0 %
+Israel,Oil,1991,0 %
+Israel,Oil,1992,0 %
+Israel,Oil,1993,0 %
+Israel,Oil,1994,0 %
+Israel,Oil,1995,0 %
+Israel,Oil,1996,0 %
+Israel,Oil,1997,0 %
+Israel,Oil,1998,0 %
+Israel,Oil,1999,0 %
+Israel,Oil,2000,0 %
+Israel,Oil,2001,0 %
+Israel,Oil,2002,0 %
+Israel,Oil,2003,0 %
+Israel,Oil,2004,0 %
+Israel,Oil,2005,0 %
+Israel,Oil,2006,0 %
+Israel,Oil,2007,0 %
+Israel,Oil,2008,0 %
+Israel,Oil,2009,0 %
+Israel,Oil,2010,0 %
+Israel,Oil,2011,0 %
+Israel,Oil,2012,0 %
+Israel,Oil,2013,0 %
+Israel,Oil,2014,0 %
+Israel,Oil,2015,0 %
+Israel,Oil,2016,0 %
+Israel,Oil,2017,0 %
+Israel,Oil,2018,0 %
+Israel,Oil,2019,0 %
+Israel,Oil,2020,0 %
+Israel,Oil,2021,0 %
+Israel,Natural Gas,1990,0 %
+Israel,Natural Gas,1991,0 %
+Israel,Natural Gas,1992,0 %
+Israel,Natural Gas,1993,0 %
+Israel,Natural Gas,1994,0 %
+Israel,Natural Gas,1995,0 %
+Israel,Natural Gas,1996,0 %
+Israel,Natural Gas,1997,0 %
+Israel,Natural Gas,1998,0 %
+Israel,Natural Gas,1999,0 %
+Israel,Natural Gas,2000,0 %
+Israel,Natural Gas,2001,0 %
+Israel,Natural Gas,2002,0 %
+Israel,Natural Gas,2003,0 %
+Israel,Natural Gas,2004,0 %
+Israel,Natural Gas,2005,0 %
+Israel,Natural Gas,2006,0 %
+Israel,Natural Gas,2007,0 %
+Israel,Natural Gas,2008,0 %
+Israel,Natural Gas,2009,0 %
+Israel,Natural Gas,2010,0 %
+Israel,Natural Gas,2011,0 %
+Israel,Natural Gas,2012,0 %
+Israel,Natural Gas,2013,0 %
+Israel,Natural Gas,2014,0 %
+Israel,Natural Gas,2015,0 %
+Israel,Natural Gas,2016,0 %
+Israel,Natural Gas,2017,0 %
+Israel,Natural Gas,2018,0 %
+Israel,Natural Gas,2019,2 %
+Israel,Natural Gas,2020,0 %
+Israel,Natural Gas,2021,0 %
+Italy,Coal,1990,3 %
+Italy,Coal,1991,4 %
+Italy,Coal,1992,8 %
+Italy,Coal,1993,7 %
+Italy,Coal,1994,6 %
+Italy,Coal,1995,4 %
+Italy,Coal,1996,3 %
+Italy,Coal,1997,1 %
+Italy,Coal,1998,1 %
+Italy,Coal,1999,5 %
+Italy,Coal,2000,5 %
+Italy,Coal,2001,4 %
+Italy,Coal,2002,6 %
+Italy,Coal,2003,4 %
+Italy,Coal,2004,7 %
+Italy,Coal,2005,4 %
+Italy,Coal,2006,3 %
+Italy,Coal,2007,3 %
+Italy,Coal,2008,4 %
+Italy,Coal,2009,6 %
+Italy,Coal,2010,10 %
+Italy,Coal,2011,11 %
+Italy,Coal,2012,12 %
+Italy,Coal,2013,20 %
+Italy,Coal,2014,19 %
+Italy,Coal,2015,21 %
+Italy,Coal,2016,25 %
+Italy,Coal,2017,37 %
+Italy,Coal,2018,37 %
+Italy,Coal,2019,43 %
+Italy,Coal,2020,49 %
+Italy,Coal,2021,56 %
+Italy,Oil,1990,2 %
+Italy,Oil,1991,0 %
+Italy,Oil,1992,0 %
+Italy,Oil,1993,20 %
+Italy,Oil,1994,25 %
+Italy,Oil,1995,16 %
+Italy,Oil,1996,13 %
+Italy,Oil,1997,13 %
+Italy,Oil,1998,14 %
+Italy,Oil,1999,19 %
+Italy,Oil,2000,20 %
+Italy,Oil,2001,24 %
+Italy,Oil,2002,23 %
+Italy,Oil,2003,25 %
+Italy,Oil,2004,27 %
+Italy,Oil,2005,27 %
+Italy,Oil,2006,22 %
+Italy,Oil,2007,28 %
+Italy,Oil,2008,23 %
+Italy,Oil,2009,26 %
+Italy,Oil,2010,23 %
+Italy,Oil,2011,22 %
+Italy,Oil,2012,24 %
+Italy,Oil,2013,31 %
+Italy,Oil,2014,25 %
+Italy,Oil,2015,23 %
+Italy,Oil,2016,20 %
+Italy,Oil,2017,16 %
+Italy,Oil,2018,16 %
+Italy,Oil,2019,22 %
+Italy,Oil,2020,17 %
+Italy,Oil,2021,17 %
+Italy,Natural Gas,1990,29 %
+Italy,Natural Gas,1991,28 %
+Italy,Natural Gas,1992,26 %
+Italy,Natural Gas,1993,26 %
+Italy,Natural Gas,1994,27 %
+Italy,Natural Gas,1995,25 %
+Italy,Natural Gas,1996,24 %
+Italy,Natural Gas,1997,24 %
+Italy,Natural Gas,1998,27 %
+Italy,Natural Gas,1999,28 %
+Italy,Natural Gas,2000,30 %
+Italy,Natural Gas,2001,28 %
+Italy,Natural Gas,2002,29 %
+Italy,Natural Gas,2003,28 %
+Italy,Natural Gas,2004,29 %
+Italy,Natural Gas,2005,27 %
+Italy,Natural Gas,2006,27 %
+Italy,Natural Gas,2007,27 %
+Italy,Natural Gas,2008,28 %
+Italy,Natural Gas,2009,26 %
+Italy,Natural Gas,2010,18 %
+Italy,Natural Gas,2011,25 %
+Italy,Natural Gas,2012,24 %
+Italy,Natural Gas,2013,40 %
+Italy,Natural Gas,2014,39 %
+Italy,Natural Gas,2015,41 %
+Italy,Natural Gas,2016,38 %
+Italy,Natural Gas,2017,44 %
+Italy,Natural Gas,2018,45 %
+Italy,Natural Gas,2019,45 %
+Italy,Natural Gas,2020,40 %
+Italy,Natural Gas,2021,38 %
+Japan,Coal,1990,7 %
+Japan,Coal,1991,5 %
+Japan,Coal,1992,4 %
+Japan,Coal,1993,4 %
+Japan,Coal,1994,4 %
+Japan,Coal,1995,4 %
+Japan,Coal,1996,4 %
+Japan,Coal,1997,3 %
+Japan,Coal,1998,3 %
+Japan,Coal,1999,4 %
+Japan,Coal,2000,4 %
+Japan,Coal,2001,4 %
+Japan,Coal,2002,5 %
+Japan,Coal,2003,5 %
+Japan,Coal,2004,5 %
+Japan,Coal,2005,6 %
+Japan,Coal,2006,6 %
+Japan,Coal,2007,7 %
+Japan,Coal,2008,6 %
+Japan,Coal,2009,6 %
+Japan,Coal,2010,7 %
+Japan,Coal,2011,7 %
+Japan,Coal,2012,8 %
+Japan,Coal,2013,7 %
+Japan,Coal,2014,9 %
+Japan,Coal,2015,10 %
+Japan,Coal,2016,10 %
+Japan,Coal,2017,11 %
+Japan,Coal,2018,12 %
+Japan,Coal,2019,13 %
+Japan,Coal,2020,14 %
+Japan,Coal,2021,12 %
+Japan,Oil,1990,0 %
+Japan,Oil,1991,0 %
+Japan,Oil,1992,0 %
+Japan,Oil,1993,0 %
+Japan,Oil,1994,0 %
+Japan,Oil,1995,0 %
+Japan,Oil,1996,0 %
+Japan,Oil,1997,0 %
+Japan,Oil,1998,0 %
+Japan,Oil,1999,0 %
+Japan,Oil,2000,0 %
+Japan,Oil,2001,0 %
+Japan,Oil,2002,0 %
+Japan,Oil,2003,1 %
+Japan,Oil,2004,1 %
+Japan,Oil,2005,1 %
+Japan,Oil,2006,1 %
+Japan,Oil,2007,3 %
+Japan,Oil,2008,4 %
+Japan,Oil,2009,4 %
+Japan,Oil,2010,6 %
+Japan,Oil,2011,4 %
+Japan,Oil,2012,5 %
+Japan,Oil,2013,6 %
+Japan,Oil,2014,7 %
+Japan,Oil,2015,7 %
+Japan,Oil,2016,5 %
+Japan,Oil,2017,5 %
+Japan,Oil,2018,4 %
+Japan,Oil,2019,4 %
+Japan,Oil,2020,3 %
+Japan,Oil,2021,3 %
+Japan,Natural Gas,1990,0 %
+Japan,Natural Gas,1991,0 %
+Japan,Natural Gas,1992,0 %
+Japan,Natural Gas,1993,0 %
+Japan,Natural Gas,1994,0 %
+Japan,Natural Gas,1995,0 %
+Japan,Natural Gas,1996,0 %
+Japan,Natural Gas,1997,0 %
+Japan,Natural Gas,1998,0 %
+Japan,Natural Gas,1999,0 %
+Japan,Natural Gas,2000,0 %
+Japan,Natural Gas,2001,0 %
+Japan,Natural Gas,2002,0 %
+Japan,Natural Gas,2003,0 %
+Japan,Natural Gas,2004,0 %
+Japan,Natural Gas,2005,0 %
+Japan,Natural Gas,2006,0 %
+Japan,Natural Gas,2007,0 %
+Japan,Natural Gas,2008,0 %
+Japan,Natural Gas,2009,6 %
+Japan,Natural Gas,2010,8 %
+Japan,Natural Gas,2011,9 %
+Japan,Natural Gas,2012,9 %
+Japan,Natural Gas,2013,10 %
+Japan,Natural Gas,2014,9 %
+Japan,Natural Gas,2015,8 %
+Japan,Natural Gas,2016,9 %
+Japan,Natural Gas,2017,8 %
+Japan,Natural Gas,2018,8 %
+Japan,Natural Gas,2019,8 %
+Japan,Natural Gas,2020,8 %
+Japan,Natural Gas,2021,9 %
+Korea,Coal,1990,3 %
+Korea,Coal,1991,1 %
+Korea,Coal,1992,1 %
+Korea,Coal,1993,2 %
+Korea,Coal,1994,0 %
+Korea,Coal,1995,2 %
+Korea,Coal,1996,2 %
+Korea,Coal,1997,1 %
+Korea,Coal,1998,1 %
+Korea,Coal,1999,2 %
+Korea,Coal,2000,4 %
+Korea,Coal,2001,3 %
+Korea,Coal,2002,4 %
+Korea,Coal,2003,4 %
+Korea,Coal,2004,6 %
+Korea,Coal,2005,4 %
+Korea,Coal,2006,6 %
+Korea,Coal,2007,7 %
+Korea,Coal,2008,7 %
+Korea,Coal,2009,5 %
+Korea,Coal,2010,7 %
+Korea,Coal,2011,10 %
+Korea,Coal,2012,11 %
+Korea,Coal,2013,12 %
+Korea,Coal,2014,14 %
+Korea,Coal,2015,18 %
+Korea,Coal,2016,20 %
+Korea,Coal,2017,19 %
+Korea,Coal,2018,19 %
+Korea,Coal,2019,19 %
+Korea,Coal,2020,21 %
+Korea,Coal,2021,0 %
+Korea,Oil,1990,0 %
+Korea,Oil,1991,0 %
+Korea,Oil,1992,0 %
+Korea,Oil,1993,0 %
+Korea,Oil,1994,0 %
+Korea,Oil,1995,0 %
+Korea,Oil,1996,0 %
+Korea,Oil,1997,0 %
+Korea,Oil,1998,1 %
+Korea,Oil,1999,1 %
+Korea,Oil,2000,2 %
+Korea,Oil,2001,2 %
+Korea,Oil,2002,2 %
+Korea,Oil,2003,1 %
+Korea,Oil,2004,1 %
+Korea,Oil,2005,1 %
+Korea,Oil,2006,2 %
+Korea,Oil,2007,6 %
+Korea,Oil,2008,4 %
+Korea,Oil,2009,4 %
+Korea,Oil,2010,7 %
+Korea,Oil,2011,5 %
+Korea,Oil,2012,4 %
+Korea,Oil,2013,6 %
+Korea,Oil,2014,5 %
+Korea,Oil,2015,7 %
+Korea,Oil,2016,5 %
+Korea,Oil,2017,5 %
+Korea,Oil,2018,5 %
+Korea,Oil,2019,4 %
+Korea,Oil,2020,6 %
+Korea,Oil,2021,7 %
+Korea,Natural Gas,1990,0 %
+Korea,Natural Gas,1991,0 %
+Korea,Natural Gas,1992,0 %
+Korea,Natural Gas,1993,0 %
+Korea,Natural Gas,1994,0 %
+Korea,Natural Gas,1995,0 %
+Korea,Natural Gas,1996,0 %
+Korea,Natural Gas,1997,0 %
+Korea,Natural Gas,1998,0 %
+Korea,Natural Gas,1999,0 %
+Korea,Natural Gas,2000,0 %
+Korea,Natural Gas,2001,0 %
+Korea,Natural Gas,2002,0 %
+Korea,Natural Gas,2003,0 %
+Korea,Natural Gas,2004,0 %
+Korea,Natural Gas,2005,0 %
+Korea,Natural Gas,2006,0 %
+Korea,Natural Gas,2007,0 %
+Korea,Natural Gas,2008,0 %
+Korea,Natural Gas,2009,4 %
+Korea,Natural Gas,2010,9 %
+Korea,Natural Gas,2011,8 %
+Korea,Natural Gas,2012,5 %
+Korea,Natural Gas,2013,5 %
+Korea,Natural Gas,2014,5 %
+Korea,Natural Gas,2015,7 %
+Korea,Natural Gas,2016,5 %
+Korea,Natural Gas,2017,5 %
+Korea,Natural Gas,2018,4 %
+Korea,Natural Gas,2019,6 %
+Korea,Natural Gas,2020,5 %
+Korea,Natural Gas,2021,5 %
+Latvia,Coal,1990,80 %
+Latvia,Coal,1991,48 %
+Latvia,Coal,1992,44 %
+Latvia,Coal,1993,40 %
+Latvia,Coal,1994,45 %
+Latvia,Coal,1995,30 %
+Latvia,Coal,1996,29 %
+Latvia,Coal,1997,43 %
+Latvia,Coal,1998,51 %
+Latvia,Coal,1999,66 %
+Latvia,Coal,2000,43 %
+Latvia,Coal,2001,51 %
+Latvia,Coal,2002,68 %
+Latvia,Coal,2003,86 %
+Latvia,Coal,2004,89 %
+Latvia,Coal,2005,92 %
+Latvia,Coal,2006,119 %
+Latvia,Coal,2007,91 %
+Latvia,Coal,2008,90 %
+Latvia,Coal,2009,95 %
+Latvia,Coal,2010,83 %
+Latvia,Coal,2011,56 %
+Latvia,Coal,2012,77 %
+Latvia,Coal,2013,100 %
+Latvia,Coal,2014,83 %
+Latvia,Coal,2015,95 %
+Latvia,Coal,2016,96 %
+Latvia,Coal,2017,101 %
+Latvia,Coal,2018,101 %
+Latvia,Coal,2019,98 %
+Latvia,Coal,2020,102 %
+Latvia,Coal,2021,48 %
+Latvia,Oil,1990,0 %
+Latvia,Oil,1991,0 %
+Latvia,Oil,1992,0 %
+Latvia,Oil,1993,0 %
+Latvia,Oil,1994,0 %
+Latvia,Oil,1995,0 %
+Latvia,Oil,1996,0 %
+Latvia,Oil,1997,0 %
+Latvia,Oil,1998,0 %
+Latvia,Oil,1999,10 %
+Latvia,Oil,2000,9 %
+Latvia,Oil,2001,7 %
+Latvia,Oil,2002,8 %
+Latvia,Oil,2003,9 %
+Latvia,Oil,2004,13 %
+Latvia,Oil,2005,16 %
+Latvia,Oil,2006,7 %
+Latvia,Oil,2007,9 %
+Latvia,Oil,2008,8 %
+Latvia,Oil,2009,11 %
+Latvia,Oil,2010,16 %
+Latvia,Oil,2011,16 %
+Latvia,Oil,2012,14 %
+Latvia,Oil,2013,16 %
+Latvia,Oil,2014,16 %
+Latvia,Oil,2015,19 %
+Latvia,Oil,2016,21 %
+Latvia,Oil,2017,21 %
+Latvia,Oil,2018,18 %
+Latvia,Oil,2019,16 %
+Latvia,Oil,2020,12 %
+Latvia,Oil,2021,13 %
+Latvia,Natural Gas,1990,113 %
+Latvia,Natural Gas,1991,100 %
+Latvia,Natural Gas,1992,124 %
+Latvia,Natural Gas,1993,67 %
+Latvia,Natural Gas,1994,98 %
+Latvia,Natural Gas,1995,99 %
+Latvia,Natural Gas,1996,100 %
+Latvia,Natural Gas,1997,99 %
+Latvia,Natural Gas,1998,106 %
+Latvia,Natural Gas,1999,104 %
+Latvia,Natural Gas,2000,102 %
+Latvia,Natural Gas,2001,86 %
+Latvia,Natural Gas,2002,89 %
+Latvia,Natural Gas,2003,104 %
+Latvia,Natural Gas,2004,130 %
+Latvia,Natural Gas,2005,106 %
+Latvia,Natural Gas,2006,109 %
+Latvia,Natural Gas,2007,97 %
+Latvia,Natural Gas,2008,82 %
+Latvia,Natural Gas,2009,114 %
+Latvia,Natural Gas,2010,62 %
+Latvia,Natural Gas,2011,109 %
+Latvia,Natural Gas,2012,114 %
+Latvia,Natural Gas,2013,116 %
+Latvia,Natural Gas,2014,72 %
+Latvia,Natural Gas,2015,99 %
+Latvia,Natural Gas,2016,83 %
+Latvia,Natural Gas,2017,102 %
+Latvia,Natural Gas,2018,99 %
+Latvia,Natural Gas,2019,100 %
+Latvia,Natural Gas,2020,100 %
+Latvia,Natural Gas,2021,100 %
+Lithuania,Coal,1990,24 %
+Lithuania,Coal,1991,0 %
+Lithuania,Coal,1992,141 %
+Lithuania,Coal,1993,52 %
+Lithuania,Coal,1994,107 %
+Lithuania,Coal,1995,36 %
+Lithuania,Coal,1996,90 %
+Lithuania,Coal,1997,85 %
+Lithuania,Coal,1998,85 %
+Lithuania,Coal,1999,67 %
+Lithuania,Coal,2000,54 %
+Lithuania,Coal,2001,48 %
+Lithuania,Coal,2002,63 %
+Lithuania,Coal,2003,60 %
+Lithuania,Coal,2004,63 %
+Lithuania,Coal,2005,61 %
+Lithuania,Coal,2006,60 %
+Lithuania,Coal,2007,55 %
+Lithuania,Coal,2008,66 %
+Lithuania,Coal,2009,58 %
+Lithuania,Coal,2010,79 %
+Lithuania,Coal,2011,99 %
+Lithuania,Coal,2012,85 %
+Lithuania,Coal,2013,97 %
+Lithuania,Coal,2014,82 %
+Lithuania,Coal,2015,78 %
+Lithuania,Coal,2016,76 %
+Lithuania,Coal,2017,87 %
+Lithuania,Coal,2018,78 %
+Lithuania,Coal,2019,91 %
+Lithuania,Coal,2020,72 %
+Lithuania,Coal,2021,78 %
+Lithuania,Oil,1990,0 %
+Lithuania,Oil,1991,0 %
+Lithuania,Oil,1992,0 %
+Lithuania,Oil,1993,0 %
+Lithuania,Oil,1994,0 %
+Lithuania,Oil,1995,0 %
+Lithuania,Oil,1996,0 %
+Lithuania,Oil,1997,0 %
+Lithuania,Oil,1998,0 %
+Lithuania,Oil,1999,160 %
+Lithuania,Oil,2000,229 %
+Lithuania,Oil,2001,258 %
+Lithuania,Oil,2002,258 %
+Lithuania,Oil,2003,311 %
+Lithuania,Oil,2004,329 %
+Lithuania,Oil,2005,337 %
+Lithuania,Oil,2006,315 %
+Lithuania,Oil,2007,207 %
+Lithuania,Oil,2008,308 %
+Lithuania,Oil,2009,337 %
+Lithuania,Oil,2010,358 %
+Lithuania,Oil,2011,364 %
+Lithuania,Oil,2012,345 %
+Lithuania,Oil,2013,368 %
+Lithuania,Oil,2014,277 %
+Lithuania,Oil,2015,295 %
+Lithuania,Oil,2016,306 %
+Lithuania,Oil,2017,243 %
+Lithuania,Oil,2018,230 %
+Lithuania,Oil,2019,270 %
+Lithuania,Oil,2020,213 %
+Lithuania,Oil,2021,236 %
+Lithuania,Natural Gas,1990,103 %
+Lithuania,Natural Gas,1991,100 %
+Lithuania,Natural Gas,1992,100 %
+Lithuania,Natural Gas,1993,100 %
+Lithuania,Natural Gas,1994,100 %
+Lithuania,Natural Gas,1995,100 %
+Lithuania,Natural Gas,1996,100 %
+Lithuania,Natural Gas,1997,100 %
+Lithuania,Natural Gas,1998,100 %
+Lithuania,Natural Gas,1999,101 %
+Lithuania,Natural Gas,2000,100 %
+Lithuania,Natural Gas,2001,100 %
+Lithuania,Natural Gas,2002,100 %
+Lithuania,Natural Gas,2003,100 %
+Lithuania,Natural Gas,2004,100 %
+Lithuania,Natural Gas,2005,101 %
+Lithuania,Natural Gas,2006,101 %
+Lithuania,Natural Gas,2007,103 %
+Lithuania,Natural Gas,2008,96 %
+Lithuania,Natural Gas,2009,100 %
+Lithuania,Natural Gas,2010,100 %
+Lithuania,Natural Gas,2011,100 %
+Lithuania,Natural Gas,2012,100 %
+Lithuania,Natural Gas,2013,100 %
+Lithuania,Natural Gas,2014,99 %
+Lithuania,Natural Gas,2015,86 %
+Lithuania,Natural Gas,2016,39 %
+Lithuania,Natural Gas,2017,58 %
+Lithuania,Natural Gas,2018,61 %
+Lithuania,Natural Gas,2019,53 %
+Lithuania,Natural Gas,2020,50 %
+Lithuania,Natural Gas,2021,43 %
+Luxembourg,Coal,1990,0 %
+Luxembourg,Coal,1991,0 %
+Luxembourg,Coal,1992,0 %
+Luxembourg,Coal,1993,0 %
+Luxembourg,Coal,1994,0 %
+Luxembourg,Coal,1995,0 %
+Luxembourg,Coal,1996,0 %
+Luxembourg,Coal,1997,0 %
+Luxembourg,Coal,1998,0 %
+Luxembourg,Coal,1999,0 %
+Luxembourg,Coal,2000,0 %
+Luxembourg,Coal,2001,0 %
+Luxembourg,Coal,2002,0 %
+Luxembourg,Coal,2003,0 %
+Luxembourg,Coal,2004,0 %
+Luxembourg,Coal,2005,0 %
+Luxembourg,Coal,2006,0 %
+Luxembourg,Coal,2007,0 %
+Luxembourg,Coal,2008,0 %
+Luxembourg,Coal,2009,0 %
+Luxembourg,Coal,2010,0 %
+Luxembourg,Coal,2011,0 %
+Luxembourg,Coal,2012,0 %
+Luxembourg,Coal,2013,8 %
+Luxembourg,Coal,2014,8 %
+Luxembourg,Coal,2015,8 %
+Luxembourg,Coal,2016,8 %
+Luxembourg,Coal,2017,7 %
+Luxembourg,Coal,2018,8 %
+Luxembourg,Coal,2019,7 %
+Luxembourg,Coal,2020,8 %
+Luxembourg,Coal,2021,7 %
+Luxembourg,Oil,1990,0 %
+Luxembourg,Oil,1991,0 %
+Luxembourg,Oil,1992,0 %
+Luxembourg,Oil,1993,0 %
+Luxembourg,Oil,1994,0 %
+Luxembourg,Oil,1995,0 %
+Luxembourg,Oil,1996,0 %
+Luxembourg,Oil,1997,0 %
+Luxembourg,Oil,1998,0 %
+Luxembourg,Oil,1999,0 %
+Luxembourg,Oil,2000,0 %
+Luxembourg,Oil,2001,0 %
+Luxembourg,Oil,2002,0 %
+Luxembourg,Oil,2003,0 %
+Luxembourg,Oil,2004,0 %
+Luxembourg,Oil,2005,0 %
+Luxembourg,Oil,2006,0 %
+Luxembourg,Oil,2007,0 %
+Luxembourg,Oil,2008,0 %
+Luxembourg,Oil,2009,0 %
+Luxembourg,Oil,2010,0 %
+Luxembourg,Oil,2011,0 %
+Luxembourg,Oil,2012,0 %
+Luxembourg,Oil,2013,0 %
+Luxembourg,Oil,2014,0 %
+Luxembourg,Oil,2015,0 %
+Luxembourg,Oil,2016,0 %
+Luxembourg,Oil,2017,0 %
+Luxembourg,Oil,2018,0 %
+Luxembourg,Oil,2019,0 %
+Luxembourg,Oil,2020,0 %
+Luxembourg,Oil,2021,0 %
+Luxembourg,Natural Gas,1990,0 %
+Luxembourg,Natural Gas,1991,0 %
+Luxembourg,Natural Gas,1992,0 %
+Luxembourg,Natural Gas,1993,0 %
+Luxembourg,Natural Gas,1994,0 %
+Luxembourg,Natural Gas,1995,0 %
+Luxembourg,Natural Gas,1996,0 %
+Luxembourg,Natural Gas,1997,0 %
+Luxembourg,Natural Gas,1998,0 %
+Luxembourg,Natural Gas,1999,0 %
+Luxembourg,Natural Gas,2000,0 %
+Luxembourg,Natural Gas,2001,0 %
+Luxembourg,Natural Gas,2002,0 %
+Luxembourg,Natural Gas,2003,0 %
+Luxembourg,Natural Gas,2004,0 %
+Luxembourg,Natural Gas,2005,0 %
+Luxembourg,Natural Gas,2006,0 %
+Luxembourg,Natural Gas,2007,23 %
+Luxembourg,Natural Gas,2008,23 %
+Luxembourg,Natural Gas,2009,24 %
+Luxembourg,Natural Gas,2010,24 %
+Luxembourg,Natural Gas,2011,24 %
+Luxembourg,Natural Gas,2012,24 %
+Luxembourg,Natural Gas,2013,25 %
+Luxembourg,Natural Gas,2014,25 %
+Luxembourg,Natural Gas,2015,25 %
+Luxembourg,Natural Gas,2016,25 %
+Luxembourg,Natural Gas,2017,27 %
+Luxembourg,Natural Gas,2018,27 %
+Luxembourg,Natural Gas,2019,27 %
+Luxembourg,Natural Gas,2020,27 %
+Luxembourg,Natural Gas,2021,0 %
+Malta,Coal,1990,0 %
+Malta,Coal,1991,0 %
+Malta,Coal,1992,0 %
+Malta,Coal,1993,0 %
+Malta,Coal,1994,0 %
+Malta,Coal,1995,0 %
+Malta,Coal,1996,0 %
+Malta,Coal,1997,0 %
+Malta,Coal,1998,0 %
+Malta,Coal,1999,0 %
+Malta,Coal,2000,0 %
+Malta,Coal,2001,0 %
+Malta,Coal,2002,0 %
+Malta,Coal,2003,0 %
+Malta,Coal,2004,0 %
+Malta,Coal,2005,0 %
+Malta,Coal,2006,0 %
+Malta,Coal,2007,0 %
+Malta,Coal,2008,0 %
+Malta,Coal,2009,0 %
+Malta,Coal,2010,0 %
+Malta,Coal,2011,0 %
+Malta,Coal,2012,0 %
+Malta,Coal,2013,0 %
+Malta,Coal,2014,0 %
+Malta,Coal,2015,0 %
+Malta,Coal,2016,0 %
+Malta,Coal,2017,0 %
+Malta,Coal,2018,0 %
+Malta,Coal,2019,0 %
+Malta,Coal,2020,0 %
+Malta,Coal,2021,0 %
+Malta,Oil,1990,0 %
+Malta,Oil,1991,0 %
+Malta,Oil,1992,0 %
+Malta,Oil,1993,0 %
+Malta,Oil,1994,0 %
+Malta,Oil,1995,0 %
+Malta,Oil,1996,0 %
+Malta,Oil,1997,0 %
+Malta,Oil,1998,0 %
+Malta,Oil,1999,0 %
+Malta,Oil,2000,0 %
+Malta,Oil,2001,0 %
+Malta,Oil,2002,0 %
+Malta,Oil,2003,0 %
+Malta,Oil,2004,0 %
+Malta,Oil,2005,0 %
+Malta,Oil,2006,0 %
+Malta,Oil,2007,0 %
+Malta,Oil,2008,0 %
+Malta,Oil,2009,0 %
+Malta,Oil,2010,0 %
+Malta,Oil,2011,0 %
+Malta,Oil,2012,0 %
+Malta,Oil,2013,0 %
+Malta,Oil,2014,0 %
+Malta,Oil,2015,0 %
+Malta,Oil,2016,0 %
+Malta,Oil,2017,0 %
+Malta,Oil,2018,0 %
+Malta,Oil,2019,0 %
+Malta,Oil,2020,0 %
+Malta,Oil,2021,N/A
+Malta,Natural Gas,1990,0 %
+Malta,Natural Gas,1991,0 %
+Malta,Natural Gas,1992,0 %
+Malta,Natural Gas,1993,0 %
+Malta,Natural Gas,1994,0 %
+Malta,Natural Gas,1995,0 %
+Malta,Natural Gas,1996,0 %
+Malta,Natural Gas,1997,0 %
+Malta,Natural Gas,1998,0 %
+Malta,Natural Gas,1999,0 %
+Malta,Natural Gas,2000,0 %
+Malta,Natural Gas,2001,0 %
+Malta,Natural Gas,2002,0 %
+Malta,Natural Gas,2003,0 %
+Malta,Natural Gas,2004,0 %
+Malta,Natural Gas,2005,0 %
+Malta,Natural Gas,2006,0 %
+Malta,Natural Gas,2007,0 %
+Malta,Natural Gas,2008,0 %
+Malta,Natural Gas,2009,0 %
+Malta,Natural Gas,2010,0 %
+Malta,Natural Gas,2011,0 %
+Malta,Natural Gas,2012,0 %
+Malta,Natural Gas,2013,0 %
+Malta,Natural Gas,2014,0 %
+Malta,Natural Gas,2015,0 %
+Malta,Natural Gas,2016,0 %
+Malta,Natural Gas,2017,0 %
+Malta,Natural Gas,2018,0 %
+Malta,Natural Gas,2019,0 %
+Malta,Natural Gas,2020,0 %
+Malta,Natural Gas,2021,0 %
+Mexico,Coal,1990,0 %
+Mexico,Coal,1991,0 %
+Mexico,Coal,1992,0 %
+Mexico,Coal,1993,0 %
+Mexico,Coal,1994,0 %
+Mexico,Coal,1995,0 %
+Mexico,Coal,1996,0 %
+Mexico,Coal,1997,0 %
+Mexico,Coal,1998,0 %
+Mexico,Coal,1999,1 %
+Mexico,Coal,2000,1 %
+Mexico,Coal,2001,2 %
+Mexico,Coal,2002,0 %
+Mexico,Coal,2003,0 %
+Mexico,Coal,2004,0 %
+Mexico,Coal,2005,0 %
+Mexico,Coal,2006,0 %
+Mexico,Coal,2007,0 %
+Mexico,Coal,2008,0 %
+Mexico,Coal,2009,0 %
+Mexico,Coal,2010,0 %
+Mexico,Coal,2011,0 %
+Mexico,Coal,2012,0 %
+Mexico,Coal,2013,0 %
+Mexico,Coal,2014,0 %
+Mexico,Coal,2015,0 %
+Mexico,Coal,2016,1 %
+Mexico,Coal,2017,0 %
+Mexico,Coal,2018,0 %
+Mexico,Coal,2019,8 %
+Mexico,Coal,2020,9 %
+Mexico,Coal,2021,0 %
+Mexico,Oil,1990,0 %
+Mexico,Oil,1991,0 %
+Mexico,Oil,1992,0 %
+Mexico,Oil,1993,0 %
+Mexico,Oil,1994,0 %
+Mexico,Oil,1995,0 %
+Mexico,Oil,1996,0 %
+Mexico,Oil,1997,0 %
+Mexico,Oil,1998,0 %
+Mexico,Oil,1999,0 %
+Mexico,Oil,2000,0 %
+Mexico,Oil,2001,0 %
+Mexico,Oil,2002,0 %
+Mexico,Oil,2003,0 %
+Mexico,Oil,2004,0 %
+Mexico,Oil,2005,0 %
+Mexico,Oil,2006,0 %
+Mexico,Oil,2007,0 %
+Mexico,Oil,2008,0 %
+Mexico,Oil,2009,0 %
+Mexico,Oil,2010,0 %
+Mexico,Oil,2011,0 %
+Mexico,Oil,2012,0 %
+Mexico,Oil,2013,0 %
+Mexico,Oil,2014,0 %
+Mexico,Oil,2015,0 %
+Mexico,Oil,2016,0 %
+Mexico,Oil,2017,0 %
+Mexico,Oil,2018,0 %
+Mexico,Oil,2019,0 %
+Mexico,Oil,2020,0 %
+Mexico,Oil,2021,0 %
+Mexico,Natural Gas,1990,0 %
+Mexico,Natural Gas,1991,0 %
+Mexico,Natural Gas,1992,0 %
+Mexico,Natural Gas,1993,0 %
+Mexico,Natural Gas,1994,0 %
+Mexico,Natural Gas,1995,0 %
+Mexico,Natural Gas,1996,0 %
+Mexico,Natural Gas,1997,0 %
+Mexico,Natural Gas,1998,0 %
+Mexico,Natural Gas,1999,0 %
+Mexico,Natural Gas,2000,0 %
+Mexico,Natural Gas,2001,0 %
+Mexico,Natural Gas,2002,0 %
+Mexico,Natural Gas,2003,0 %
+Mexico,Natural Gas,2004,0 %
+Mexico,Natural Gas,2005,0 %
+Mexico,Natural Gas,2006,0 %
+Mexico,Natural Gas,2007,0 %
+Mexico,Natural Gas,2008,0 %
+Mexico,Natural Gas,2009,0 %
+Mexico,Natural Gas,2010,0 %
+Mexico,Natural Gas,2011,0 %
+Mexico,Natural Gas,2012,0 %
+Mexico,Natural Gas,2013,0 %
+Mexico,Natural Gas,2014,0 %
+Mexico,Natural Gas,2015,0 %
+Mexico,Natural Gas,2016,0 %
+Mexico,Natural Gas,2017,0 %
+Mexico,Natural Gas,2018,0 %
+Mexico,Natural Gas,2019,0 %
+Mexico,Natural Gas,2020,0 %
+Mexico,Natural Gas,2021,0 %
+Netherlands,Coal,1990,0 %
+Netherlands,Coal,1991,0 %
+Netherlands,Coal,1992,0 %
+Netherlands,Coal,1993,0 %
+Netherlands,Coal,1994,0 %
+Netherlands,Coal,1995,0 %
+Netherlands,Coal,1996,1 %
+Netherlands,Coal,1997,1 %
+Netherlands,Coal,1998,1 %
+Netherlands,Coal,1999,2 %
+Netherlands,Coal,2000,1 %
+Netherlands,Coal,2001,3 %
+Netherlands,Coal,2002,3 %
+Netherlands,Coal,2003,1 %
+Netherlands,Coal,2004,6 %
+Netherlands,Coal,2005,8 %
+Netherlands,Coal,2006,8 %
+Netherlands,Coal,2007,10 %
+Netherlands,Coal,2008,13 %
+Netherlands,Coal,2009,14 %
+Netherlands,Coal,2010,19 %
+Netherlands,Coal,2011,14 %
+Netherlands,Coal,2012,15 %
+Netherlands,Coal,2013,17 %
+Netherlands,Coal,2014,20 %
+Netherlands,Coal,2015,27 %
+Netherlands,Coal,2016,32 %
+Netherlands,Coal,2017,39 %
+Netherlands,Coal,2018,39 %
+Netherlands,Coal,2019,43 %
+Netherlands,Coal,2020,51 %
+Netherlands,Coal,2021,38 %
+Netherlands,Oil,1990,10 %
+Netherlands,Oil,1991,5 %
+Netherlands,Oil,1992,12 %
+Netherlands,Oil,1993,8 %
+Netherlands,Oil,1994,11 %
+Netherlands,Oil,1995,11 %
+Netherlands,Oil,1996,14 %
+Netherlands,Oil,1997,13 %
+Netherlands,Oil,1998,7 %
+Netherlands,Oil,1999,16 %
+Netherlands,Oil,2000,22 %
+Netherlands,Oil,2001,31 %
+Netherlands,Oil,2002,36 %
+Netherlands,Oil,2003,44 %
+Netherlands,Oil,2004,59 %
+Netherlands,Oil,2005,66 %
+Netherlands,Oil,2006,70 %
+Netherlands,Oil,2007,64 %
+Netherlands,Oil,2008,68 %
+Netherlands,Oil,2009,73 %
+Netherlands,Oil,2010,71 %
+Netherlands,Oil,2011,73 %
+Netherlands,Oil,2012,72 %
+Netherlands,Oil,2013,74 %
+Netherlands,Oil,2014,71 %
+Netherlands,Oil,2015,86 %
+Netherlands,Oil,2016,106 %
+Netherlands,Oil,2017,123 %
+Netherlands,Oil,2018,135 %
+Netherlands,Oil,2019,90 %
+Netherlands,Oil,2020,67 %
+Netherlands,Oil,2021,85 %
+Netherlands,Natural Gas,1990,0 %
+Netherlands,Natural Gas,1991,0 %
+Netherlands,Natural Gas,1992,0 %
+Netherlands,Natural Gas,1993,0 %
+Netherlands,Natural Gas,1994,0 %
+Netherlands,Natural Gas,1995,0 %
+Netherlands,Natural Gas,1996,0 %
+Netherlands,Natural Gas,1997,0 %
+Netherlands,Natural Gas,1998,0 %
+Netherlands,Natural Gas,1999,0 %
+Netherlands,Natural Gas,2000,0 %
+Netherlands,Natural Gas,2001,0 %
+Netherlands,Natural Gas,2002,0 %
+Netherlands,Natural Gas,2003,0 %
+Netherlands,Natural Gas,2004,0 %
+Netherlands,Natural Gas,2005,9 %
+Netherlands,Natural Gas,2006,11 %
+Netherlands,Natural Gas,2007,10 %
+Netherlands,Natural Gas,2008,11 %
+Netherlands,Natural Gas,2009,7 %
+Netherlands,Natural Gas,2010,7 %
+Netherlands,Natural Gas,2011,4 %
+Netherlands,Natural Gas,2012,6 %
+Netherlands,Natural Gas,2013,9 %
+Netherlands,Natural Gas,2014,16 %
+Netherlands,Natural Gas,2015,20 %
+Netherlands,Natural Gas,2016,30 %
+Netherlands,Natural Gas,2017,26 %
+Netherlands,Natural Gas,2018,46 %
+Netherlands,Natural Gas,2019,42 %
+Netherlands,Natural Gas,2020,41 %
+Netherlands,Natural Gas,2021,31 %
+Norway,Coal,1990,7 %
+Norway,Coal,1991,2 %
+Norway,Coal,1992,9 %
+Norway,Coal,1993,5 %
+Norway,Coal,1994,2 %
+Norway,Coal,1995,3 %
+Norway,Coal,1996,2 %
+Norway,Coal,1997,0 %
+Norway,Coal,1998,4 %
+Norway,Coal,1999,4 %
+Norway,Coal,2000,7 %
+Norway,Coal,2001,5 %
+Norway,Coal,2002,5 %
+Norway,Coal,2003,15 %
+Norway,Coal,2004,11 %
+Norway,Coal,2005,7 %
+Norway,Coal,2006,13 %
+Norway,Coal,2007,7 %
+Norway,Coal,2008,9 %
+Norway,Coal,2009,12 %
+Norway,Coal,2010,19 %
+Norway,Coal,2011,17 %
+Norway,Coal,2012,14 %
+Norway,Coal,2013,9 %
+Norway,Coal,2014,15 %
+Norway,Coal,2015,15 %
+Norway,Coal,2016,15 %
+Norway,Coal,2017,18 %
+Norway,Coal,2018,17 %
+Norway,Coal,2019,20 %
+Norway,Coal,2020,18 %
+Norway,Coal,2021,18 %
+Norway,Oil,1990,5 %
+Norway,Oil,1991,2 %
+Norway,Oil,1992,0 %
+Norway,Oil,1993,2 %
+Norway,Oil,1994,0 %
+Norway,Oil,1995,1 %
+Norway,Oil,1996,1 %
+Norway,Oil,1997,3 %
+Norway,Oil,1998,3 %
+Norway,Oil,1999,2 %
+Norway,Oil,2000,3 %
+Norway,Oil,2001,6 %
+Norway,Oil,2002,2 %
+Norway,Oil,2003,1 %
+Norway,Oil,2004,2 %
+Norway,Oil,2005,3 %
+Norway,Oil,2006,1 %
+Norway,Oil,2007,1 %
+Norway,Oil,2008,0 %
+Norway,Oil,2009,2 %
+Norway,Oil,2010,8 %
+Norway,Oil,2011,6 %
+Norway,Oil,2012,6 %
+Norway,Oil,2013,2 %
+Norway,Oil,2014,2 %
+Norway,Oil,2015,5 %
+Norway,Oil,2016,5 %
+Norway,Oil,2017,4 %
+Norway,Oil,2018,4 %
+Norway,Oil,2019,6 %
+Norway,Oil,2020,3 %
+Norway,Oil,2021,4 %
+Norway,Natural Gas,1990,0 %
+Norway,Natural Gas,1991,0 %
+Norway,Natural Gas,1992,0 %
+Norway,Natural Gas,1993,0 %
+Norway,Natural Gas,1994,0 %
+Norway,Natural Gas,1995,0 %
+Norway,Natural Gas,1996,0 %
+Norway,Natural Gas,1997,0 %
+Norway,Natural Gas,1998,0 %
+Norway,Natural Gas,1999,0 %
+Norway,Natural Gas,2000,0 %
+Norway,Natural Gas,2001,0 %
+Norway,Natural Gas,2002,0 %
+Norway,Natural Gas,2003,0 %
+Norway,Natural Gas,2004,0 %
+Norway,Natural Gas,2005,0 %
+Norway,Natural Gas,2006,0 %
+Norway,Natural Gas,2007,0 %
+Norway,Natural Gas,2008,0 %
+Norway,Natural Gas,2009,0 %
+Norway,Natural Gas,2010,0 %
+Norway,Natural Gas,2011,0 %
+Norway,Natural Gas,2012,0 %
+Norway,Natural Gas,2013,0 %
+Norway,Natural Gas,2014,0 %
+Norway,Natural Gas,2015,0 %
+Norway,Natural Gas,2016,0 %
+Norway,Natural Gas,2017,0 %
+Norway,Natural Gas,2018,0 %
+Norway,Natural Gas,2019,0 %
+Norway,Natural Gas,2020,0 %
+Norway,Natural Gas,2021,2 %
+New Zealand,Coal,1990,0 %
+New Zealand,Coal,1991,0 %
+New Zealand,Coal,1992,0 %
+New Zealand,Coal,1993,0 %
+New Zealand,Coal,1994,0 %
+New Zealand,Coal,1995,0 %
+New Zealand,Coal,1996,0 %
+New Zealand,Coal,1997,0 %
+New Zealand,Coal,1998,0 %
+New Zealand,Coal,1999,0 %
+New Zealand,Coal,2000,0 %
+New Zealand,Coal,2001,0 %
+New Zealand,Coal,2002,0 %
+New Zealand,Coal,2003,0 %
+New Zealand,Coal,2004,0 %
+New Zealand,Coal,2005,0 %
+New Zealand,Coal,2006,0 %
+New Zealand,Coal,2007,0 %
+New Zealand,Coal,2008,0 %
+New Zealand,Coal,2009,0 %
+New Zealand,Coal,2010,0 %
+New Zealand,Coal,2011,0 %
+New Zealand,Coal,2012,0 %
+New Zealand,Coal,2013,0 %
+New Zealand,Coal,2014,0 %
+New Zealand,Coal,2015,0 %
+New Zealand,Coal,2016,0 %
+New Zealand,Coal,2017,0 %
+New Zealand,Coal,2018,0 %
+New Zealand,Coal,2019,0 %
+New Zealand,Coal,2020,0 %
+New Zealand,Coal,2021,0 %
+New Zealand,Oil,1990,0 %
+New Zealand,Oil,1991,0 %
+New Zealand,Oil,1992,0 %
+New Zealand,Oil,1993,0 %
+New Zealand,Oil,1994,0 %
+New Zealand,Oil,1995,0 %
+New Zealand,Oil,1996,0 %
+New Zealand,Oil,1997,0 %
+New Zealand,Oil,1998,0 %
+New Zealand,Oil,1999,0 %
+New Zealand,Oil,2000,0 %
+New Zealand,Oil,2001,0 %
+New Zealand,Oil,2002,0 %
+New Zealand,Oil,2003,0 %
+New Zealand,Oil,2004,0 %
+New Zealand,Oil,2005,0 %
+New Zealand,Oil,2006,0 %
+New Zealand,Oil,2007,0 %
+New Zealand,Oil,2008,0 %
+New Zealand,Oil,2009,0 %
+New Zealand,Oil,2010,0 %
+New Zealand,Oil,2011,0 %
+New Zealand,Oil,2012,0 %
+New Zealand,Oil,2013,0 %
+New Zealand,Oil,2014,0 %
+New Zealand,Oil,2015,0 %
+New Zealand,Oil,2016,0 %
+New Zealand,Oil,2017,0 %
+New Zealand,Oil,2018,0 %
+New Zealand,Oil,2019,0 %
+New Zealand,Oil,2020,0 %
+New Zealand,Oil,2021,0 %
+New Zealand,Natural Gas,1990,0 %
+New Zealand,Natural Gas,1991,0 %
+New Zealand,Natural Gas,1992,0 %
+New Zealand,Natural Gas,1993,0 %
+New Zealand,Natural Gas,1994,0 %
+New Zealand,Natural Gas,1995,0 %
+New Zealand,Natural Gas,1996,0 %
+New Zealand,Natural Gas,1997,0 %
+New Zealand,Natural Gas,1998,0 %
+New Zealand,Natural Gas,1999,0 %
+New Zealand,Natural Gas,2000,0 %
+New Zealand,Natural Gas,2001,0 %
+New Zealand,Natural Gas,2002,0 %
+New Zealand,Natural Gas,2003,0 %
+New Zealand,Natural Gas,2004,0 %
+New Zealand,Natural Gas,2005,0 %
+New Zealand,Natural Gas,2006,0 %
+New Zealand,Natural Gas,2007,0 %
+New Zealand,Natural Gas,2008,0 %
+New Zealand,Natural Gas,2009,0 %
+New Zealand,Natural Gas,2010,0 %
+New Zealand,Natural Gas,2011,0 %
+New Zealand,Natural Gas,2012,0 %
+New Zealand,Natural Gas,2013,0 %
+New Zealand,Natural Gas,2014,0 %
+New Zealand,Natural Gas,2015,0 %
+New Zealand,Natural Gas,2016,0 %
+New Zealand,Natural Gas,2017,0 %
+New Zealand,Natural Gas,2018,0 %
+New Zealand,Natural Gas,2019,0 %
+New Zealand,Natural Gas,2020,0 %
+New Zealand,Natural Gas,2021,0 %
+Poland,Coal,1990,0 %
+Poland,Coal,1991,0 %
+Poland,Coal,1992,0 %
+Poland,Coal,1993,0 %
+Poland,Coal,1994,0 %
+Poland,Coal,1995,0 %
+Poland,Coal,1996,1 %
+Poland,Coal,1997,2 %
+Poland,Coal,1998,3 %
+Poland,Coal,1999,1 %
+Poland,Coal,2000,1 %
+Poland,Coal,2001,1 %
+Poland,Coal,2002,2 %
+Poland,Coal,2003,2 %
+Poland,Coal,2004,2 %
+Poland,Coal,2005,3 %
+Poland,Coal,2006,4 %
+Poland,Coal,2007,3 %
+Poland,Coal,2008,6 %
+Poland,Coal,2009,9 %
+Poland,Coal,2010,9 %
+Poland,Coal,2011,11 %
+Poland,Coal,2012,8 %
+Poland,Coal,2013,8 %
+Poland,Coal,2014,8 %
+Poland,Coal,2015,6 %
+Poland,Coal,2016,7 %
+Poland,Coal,2017,11 %
+Poland,Coal,2018,17 %
+Poland,Coal,2019,15 %
+Poland,Coal,2020,15 %
+Poland,Coal,2021,11 %
+Poland,Oil,1990,101 %
+Poland,Oil,1991,88 %
+Poland,Oil,1992,97 %
+Poland,Oil,1993,98 %
+Poland,Oil,1994,87 %
+Poland,Oil,1995,83 %
+Poland,Oil,1996,80 %
+Poland,Oil,1997,68 %
+Poland,Oil,1998,71 %
+Poland,Oil,1999,75 %
+Poland,Oil,2000,92 %
+Poland,Oil,2001,86 %
+Poland,Oil,2002,92 %
+Poland,Oil,2003,88 %
+Poland,Oil,2004,82 %
+Poland,Oil,2005,85 %
+Poland,Oil,2006,86 %
+Poland,Oil,2007,87 %
+Poland,Oil,2008,82 %
+Poland,Oil,2009,84 %
+Poland,Oil,2010,89 %
+Poland,Oil,2011,91 %
+Poland,Oil,2012,103 %
+Poland,Oil,2013,107 %
+Poland,Oil,2014,107 %
+Poland,Oil,2015,106 %
+Poland,Oil,2016,87 %
+Poland,Oil,2017,77 %
+Poland,Oil,2018,79 %
+Poland,Oil,2019,68 %
+Poland,Oil,2020,68 %
+Poland,Oil,2021,56 %
+Poland,Natural Gas,1990,76 %
+Poland,Natural Gas,1991,69 %
+Poland,Natural Gas,1992,69 %
+Poland,Natural Gas,1993,57 %
+Poland,Natural Gas,1994,60 %
+Poland,Natural Gas,1995,64 %
+Poland,Natural Gas,1996,61 %
+Poland,Natural Gas,1997,58 %
+Poland,Natural Gas,1998,65 %
+Poland,Natural Gas,1999,53 %
+Poland,Natural Gas,2000,54 %
+Poland,Natural Gas,2001,58 %
+Poland,Natural Gas,2002,57 %
+Poland,Natural Gas,2003,53 %
+Poland,Natural Gas,2004,43 %
+Poland,Natural Gas,2005,46 %
+Poland,Natural Gas,2006,49 %
+Poland,Natural Gas,2007,45 %
+Poland,Natural Gas,2008,51 %
+Poland,Natural Gas,2009,55 %
+Poland,Natural Gas,2010,62 %
+Poland,Natural Gas,2011,64 %
+Poland,Natural Gas,2012,59 %
+Poland,Natural Gas,2013,58 %
+Poland,Natural Gas,2014,55 %
+Poland,Natural Gas,2015,53 %
+Poland,Natural Gas,2016,62 %
+Poland,Natural Gas,2017,55 %
+Poland,Natural Gas,2018,50 %
+Poland,Natural Gas,2019,49 %
+Poland,Natural Gas,2020,46 %
+Poland,Natural Gas,2021,47 %
+Portugal,Coal,1990,1 %
+Portugal,Coal,1991,2 %
+Portugal,Coal,1992,2 %
+Portugal,Coal,1993,3 %
+Portugal,Coal,1994,3 %
+Portugal,Coal,1995,1 %
+Portugal,Coal,1996,0 %
+Portugal,Coal,1997,0 %
+Portugal,Coal,1998,0 %
+Portugal,Coal,1999,1 %
+Portugal,Coal,2000,2 %
+Portugal,Coal,2001,1 %
+Portugal,Coal,2002,0 %
+Portugal,Coal,2003,0 %
+Portugal,Coal,2004,0 %
+Portugal,Coal,2005,0 %
+Portugal,Coal,2006,0 %
+Portugal,Coal,2007,3 %
+Portugal,Coal,2008,1 %
+Portugal,Coal,2009,2 %
+Portugal,Coal,2010,2 %
+Portugal,Coal,2011,0 %
+Portugal,Coal,2012,0 %
+Portugal,Coal,2013,0 %
+Portugal,Coal,2014,0 %
+Portugal,Coal,2015,0 %
+Portugal,Coal,2016,0 %
+Portugal,Coal,2017,6 %
+Portugal,Coal,2018,2 %
+Portugal,Coal,2019,8 %
+Portugal,Coal,2020,0 %
+Portugal,Coal,2021,0 %
+Portugal,Oil,1990,0 %
+Portugal,Oil,1991,0 %
+Portugal,Oil,1992,0 %
+Portugal,Oil,1993,4 %
+Portugal,Oil,1994,4 %
+Portugal,Oil,1995,6 %
+Portugal,Oil,1996,5 %
+Portugal,Oil,1997,6 %
+Portugal,Oil,1998,5 %
+Portugal,Oil,1999,4 %
+Portugal,Oil,2000,2 %
+Portugal,Oil,2001,8 %
+Portugal,Oil,2002,4 %
+Portugal,Oil,2003,10 %
+Portugal,Oil,2004,6 %
+Portugal,Oil,2005,0 %
+Portugal,Oil,2006,1 %
+Portugal,Oil,2007,0 %
+Portugal,Oil,2008,0 %
+Portugal,Oil,2009,0 %
+Portugal,Oil,2010,1 %
+Portugal,Oil,2011,4 %
+Portugal,Oil,2012,4 %
+Portugal,Oil,2013,17 %
+Portugal,Oil,2014,14 %
+Portugal,Oil,2015,16 %
+Portugal,Oil,2016,33 %
+Portugal,Oil,2017,43 %
+Portugal,Oil,2018,34 %
+Portugal,Oil,2019,18 %
+Portugal,Oil,2020,7 %
+Portugal,Oil,2021,12 %
+Portugal,Natural Gas,1990,0 %
+Portugal,Natural Gas,1991,0 %
+Portugal,Natural Gas,1992,0 %
+Portugal,Natural Gas,1993,0 %
+Portugal,Natural Gas,1994,0 %
+Portugal,Natural Gas,1995,0 %
+Portugal,Natural Gas,1996,0 %
+Portugal,Natural Gas,1997,0 %
+Portugal,Natural Gas,1998,0 %
+Portugal,Natural Gas,1999,0 %
+Portugal,Natural Gas,2000,0 %
+Portugal,Natural Gas,2001,0 %
+Portugal,Natural Gas,2002,0 %
+Portugal,Natural Gas,2003,0 %
+Portugal,Natural Gas,2004,0 %
+Portugal,Natural Gas,2005,0 %
+Portugal,Natural Gas,2006,0 %
+Portugal,Natural Gas,2007,0 %
+Portugal,Natural Gas,2008,0 %
+Portugal,Natural Gas,2009,0 %
+Portugal,Natural Gas,2010,0 %
+Portugal,Natural Gas,2011,0 %
+Portugal,Natural Gas,2012,0 %
+Portugal,Natural Gas,2013,0 %
+Portugal,Natural Gas,2014,0 %
+Portugal,Natural Gas,2015,0 %
+Portugal,Natural Gas,2016,0 %
+Portugal,Natural Gas,2017,0 %
+Portugal,Natural Gas,2018,0 %
+Portugal,Natural Gas,2019,2 %
+Portugal,Natural Gas,2020,11 %
+Portugal,Natural Gas,2021,14 %
+Romania,Coal,1990,0 %
+Romania,Coal,1991,0 %
+Romania,Coal,1992,19 %
+Romania,Coal,1993,10 %
+Romania,Coal,1994,8 %
+Romania,Coal,1995,11 %
+Romania,Coal,1996,6 %
+Romania,Coal,1997,6 %
+Romania,Coal,1998,10 %
+Romania,Coal,1999,6 %
+Romania,Coal,2000,14 %
+Romania,Coal,2001,15 %
+Romania,Coal,2002,17 %
+Romania,Coal,2003,11 %
+Romania,Coal,2004,0 %
+Romania,Coal,2005,12 %
+Romania,Coal,2006,9 %
+Romania,Coal,2007,11 %
+Romania,Coal,2008,7 %
+Romania,Coal,2009,3 %
+Romania,Coal,2010,4 %
+Romania,Coal,2011,2 %
+Romania,Coal,2012,2 %
+Romania,Coal,2013,3 %
+Romania,Coal,2014,3 %
+Romania,Coal,2015,4 %
+Romania,Coal,2016,6 %
+Romania,Coal,2017,6 %
+Romania,Coal,2018,6 %
+Romania,Coal,2019,9 %
+Romania,Coal,2020,10 %
+Romania,Coal,2021,0 %
+Romania,Oil,1990,0 %
+Romania,Oil,1991,0 %
+Romania,Oil,1992,0 %
+Romania,Oil,1993,0 %
+Romania,Oil,1994,0 %
+Romania,Oil,1995,0 %
+Romania,Oil,1996,0 %
+Romania,Oil,1997,0 %
+Romania,Oil,1998,0 %
+Romania,Oil,1999,0 %
+Romania,Oil,2000,36 %
+Romania,Oil,2001,29 %
+Romania,Oil,2002,32 %
+Romania,Oil,2003,42 %
+Romania,Oil,2004,0 %
+Romania,Oil,2005,51 %
+Romania,Oil,2006,41 %
+Romania,Oil,2007,47 %
+Romania,Oil,2008,30 %
+Romania,Oil,2009,30 %
+Romania,Oil,2010,32 %
+Romania,Oil,2011,19 %
+Romania,Oil,2012,19 %
+Romania,Oil,2013,35 %
+Romania,Oil,2014,37 %
+Romania,Oil,2015,42 %
+Romania,Oil,2016,45 %
+Romania,Oil,2017,44 %
+Romania,Oil,2018,44 %
+Romania,Oil,2019,42 %
+Romania,Oil,2020,32 %
+Romania,Oil,2021,N/A
+Romania,Natural Gas,1990,21 %
+Romania,Natural Gas,1991,16 %
+Romania,Natural Gas,1992,17 %
+Romania,Natural Gas,1993,18 %
+Romania,Natural Gas,1994,20 %
+Romania,Natural Gas,1995,25 %
+Romania,Natural Gas,1996,29 %
+Romania,Natural Gas,1997,25 %
+Romania,Natural Gas,1998,26 %
+Romania,Natural Gas,1999,18 %
+Romania,Natural Gas,2000,20 %
+Romania,Natural Gas,2001,18 %
+Romania,Natural Gas,2002,23 %
+Romania,Natural Gas,2003,26 %
+Romania,Natural Gas,2004,30 %
+Romania,Natural Gas,2005,30 %
+Romania,Natural Gas,2006,32 %
+Romania,Natural Gas,2007,28 %
+Romania,Natural Gas,2008,28 %
+Romania,Natural Gas,2009,15 %
+Romania,Natural Gas,2010,16 %
+Romania,Natural Gas,2011,19 %
+Romania,Natural Gas,2012,18 %
+Romania,Natural Gas,2013,11 %
+Romania,Natural Gas,2014,4 %
+Romania,Natural Gas,2015,2 %
+Romania,Natural Gas,2016,13 %
+Romania,Natural Gas,2017,10 %
+Romania,Natural Gas,2018,11 %
+Romania,Natural Gas,2019,9 %
+Romania,Natural Gas,2020,8 %
+Romania,Natural Gas,2021,23 %
+Slovak Republic,Coal,1990,0 %
+Slovak Republic,Coal,1991,0 %
+Slovak Republic,Coal,1992,0 %
+Slovak Republic,Coal,1993,0 %
+Slovak Republic,Coal,1994,12 %
+Slovak Republic,Coal,1995,17 %
+Slovak Republic,Coal,1996,19 %
+Slovak Republic,Coal,1997,12 %
+Slovak Republic,Coal,1998,8 %
+Slovak Republic,Coal,1999,20 %
+Slovak Republic,Coal,2000,25 %
+Slovak Republic,Coal,2001,25 %
+Slovak Republic,Coal,2002,25 %
+Slovak Republic,Coal,2003,24 %
+Slovak Republic,Coal,2004,21 %
+Slovak Republic,Coal,2005,32 %
+Slovak Republic,Coal,2006,19 %
+Slovak Republic,Coal,2007,32 %
+Slovak Republic,Coal,2008,26 %
+Slovak Republic,Coal,2009,26 %
+Slovak Republic,Coal,2010,19 %
+Slovak Republic,Coal,2011,19 %
+Slovak Republic,Coal,2012,22 %
+Slovak Republic,Coal,2013,19 %
+Slovak Republic,Coal,2014,18 %
+Slovak Republic,Coal,2015,24 %
+Slovak Republic,Coal,2016,19 %
+Slovak Republic,Coal,2017,24 %
+Slovak Republic,Coal,2018,31 %
+Slovak Republic,Coal,2019,33 %
+Slovak Republic,Coal,2020,27 %
+Slovak Republic,Coal,2021,21 %
+Slovak Republic,Oil,1990,0 %
+Slovak Republic,Oil,1991,0 %
+Slovak Republic,Oil,1992,0 %
+Slovak Republic,Oil,1993,0 %
+Slovak Republic,Oil,1994,0 %
+Slovak Republic,Oil,1995,0 %
+Slovak Republic,Oil,1996,0 %
+Slovak Republic,Oil,1997,0 %
+Slovak Republic,Oil,1998,0 %
+Slovak Republic,Oil,1999,0 %
+Slovak Republic,Oil,2000,0 %
+Slovak Republic,Oil,2001,179 %
+Slovak Republic,Oil,2002,160 %
+Slovak Republic,Oil,2003,174 %
+Slovak Republic,Oil,2004,182 %
+Slovak Republic,Oil,2005,156 %
+Slovak Republic,Oil,2006,170 %
+Slovak Republic,Oil,2007,171 %
+Slovak Republic,Oil,2008,160 %
+Slovak Republic,Oil,2009,168 %
+Slovak Republic,Oil,2010,152 %
+Slovak Republic,Oil,2011,171 %
+Slovak Republic,Oil,2012,165 %
+Slovak Republic,Oil,2013,182 %
+Slovak Republic,Oil,2014,177 %
+Slovak Republic,Oil,2015,182 %
+Slovak Republic,Oil,2016,168 %
+Slovak Republic,Oil,2017,146 %
+Slovak Republic,Oil,2018,141 %
+Slovak Republic,Oil,2019,140 %
+Slovak Republic,Oil,2020,154 %
+Slovak Republic,Oil,2021,133 %
+Slovak Republic,Natural Gas,1990,105 %
+Slovak Republic,Natural Gas,1991,94 %
+Slovak Republic,Natural Gas,1992,96 %
+Slovak Republic,Natural Gas,1993,86 %
+Slovak Republic,Natural Gas,1994,93 %
+Slovak Republic,Natural Gas,1995,87 %
+Slovak Republic,Natural Gas,1996,92 %
+Slovak Republic,Natural Gas,1997,93 %
+Slovak Republic,Natural Gas,1998,94 %
+Slovak Republic,Natural Gas,1999,91 %
+Slovak Republic,Natural Gas,2000,99 %
+Slovak Republic,Natural Gas,2001,92 %
+Slovak Republic,Natural Gas,2002,100 %
+Slovak Republic,Natural Gas,2003,97 %
+Slovak Republic,Natural Gas,2004,103 %
+Slovak Republic,Natural Gas,2005,103 %
+Slovak Republic,Natural Gas,2006,106 %
+Slovak Republic,Natural Gas,2007,100 %
+Slovak Republic,Natural Gas,2008,99 %
+Slovak Republic,Natural Gas,2009,108 %
+Slovak Republic,Natural Gas,2010,100 %
+Slovak Republic,Natural Gas,2011,105 %
+Slovak Republic,Natural Gas,2012,91 %
+Slovak Republic,Natural Gas,2013,96 %
+Slovak Republic,Natural Gas,2014,105 %
+Slovak Republic,Natural Gas,2015,95 %
+Slovak Republic,Natural Gas,2016,92 %
+Slovak Republic,Natural Gas,2017,89 %
+Slovak Republic,Natural Gas,2018,90 %
+Slovak Republic,Natural Gas,2019,137 %
+Slovak Republic,Natural Gas,2020,75 %
+Slovak Republic,Natural Gas,2021,65 %
+Slovenia,Coal,1990,0 %
+Slovenia,Coal,1991,0 %
+Slovenia,Coal,1992,0 %
+Slovenia,Coal,1993,0 %
+Slovenia,Coal,1994,0 %
+Slovenia,Coal,1995,0 %
+Slovenia,Coal,1996,0 %
+Slovenia,Coal,1997,0 %
+Slovenia,Coal,1998,1 %
+Slovenia,Coal,1999,0 %
+Slovenia,Coal,2000,0 %
+Slovenia,Coal,2001,0 %
+Slovenia,Coal,2002,0 %
+Slovenia,Coal,2003,1 %
+Slovenia,Coal,2004,1 %
+Slovenia,Coal,2005,2 %
+Slovenia,Coal,2006,1 %
+Slovenia,Coal,2007,1 %
+Slovenia,Coal,2008,2 %
+Slovenia,Coal,2009,1 %
+Slovenia,Coal,2010,0 %
+Slovenia,Coal,2011,0 %
+Slovenia,Coal,2012,0 %
+Slovenia,Coal,2013,0 %
+Slovenia,Coal,2014,0 %
+Slovenia,Coal,2015,0 %
+Slovenia,Coal,2016,0 %
+Slovenia,Coal,2017,0 %
+Slovenia,Coal,2018,0 %
+Slovenia,Coal,2019,0 %
+Slovenia,Coal,2020,1 %
+Slovenia,Coal,2021,0 %
+Slovenia,Oil,1990,0 %
+Slovenia,Oil,1991,0 %
+Slovenia,Oil,1992,0 %
+Slovenia,Oil,1993,0 %
+Slovenia,Oil,1994,0 %
+Slovenia,Oil,1995,0 %
+Slovenia,Oil,1996,0 %
+Slovenia,Oil,1997,0 %
+Slovenia,Oil,1998,0 %
+Slovenia,Oil,1999,0 %
+Slovenia,Oil,2000,2 %
+Slovenia,Oil,2001,0 %
+Slovenia,Oil,2002,0 %
+Slovenia,Oil,2003,0 %
+Slovenia,Oil,2004,0 %
+Slovenia,Oil,2005,0 %
+Slovenia,Oil,2006,0 %
+Slovenia,Oil,2007,0 %
+Slovenia,Oil,2008,0 %
+Slovenia,Oil,2009,1 %
+Slovenia,Oil,2010,1 %
+Slovenia,Oil,2011,1 %
+Slovenia,Oil,2012,1 %
+Slovenia,Oil,2013,1 %
+Slovenia,Oil,2014,1 %
+Slovenia,Oil,2015,1 %
+Slovenia,Oil,2016,0 %
+Slovenia,Oil,2017,0 %
+Slovenia,Oil,2018,0 %
+Slovenia,Oil,2019,0 %
+Slovenia,Oil,2020,0 %
+Slovenia,Oil,2021,0 %
+Slovenia,Natural Gas,1990,95 %
+Slovenia,Natural Gas,1991,96 %
+Slovenia,Natural Gas,1992,70 %
+Slovenia,Natural Gas,1993,66 %
+Slovenia,Natural Gas,1994,56 %
+Slovenia,Natural Gas,1995,60 %
+Slovenia,Natural Gas,1996,51 %
+Slovenia,Natural Gas,1997,54 %
+Slovenia,Natural Gas,1998,58 %
+Slovenia,Natural Gas,1999,40 %
+Slovenia,Natural Gas,2000,60 %
+Slovenia,Natural Gas,2001,60 %
+Slovenia,Natural Gas,2002,60 %
+Slovenia,Natural Gas,2003,60 %
+Slovenia,Natural Gas,2004,60 %
+Slovenia,Natural Gas,2005,60 %
+Slovenia,Natural Gas,2006,51 %
+Slovenia,Natural Gas,2007,51 %
+Slovenia,Natural Gas,2008,47 %
+Slovenia,Natural Gas,2009,48 %
+Slovenia,Natural Gas,2010,47 %
+Slovenia,Natural Gas,2011,48 %
+Slovenia,Natural Gas,2012,42 %
+Slovenia,Natural Gas,2013,58 %
+Slovenia,Natural Gas,2014,37 %
+Slovenia,Natural Gas,2015,30 %
+Slovenia,Natural Gas,2016,34 %
+Slovenia,Natural Gas,2017,23 %
+Slovenia,Natural Gas,2018,31 %
+Slovenia,Natural Gas,2019,12 %
+Slovenia,Natural Gas,2020,9 %
+Slovenia,Natural Gas,2021,9 %
+Spain,Coal,1990,1 %
+Spain,Coal,1991,1 %
+Spain,Coal,1992,1 %
+Spain,Coal,1993,1 %
+Spain,Coal,1994,0 %
+Spain,Coal,1995,1 %
+Spain,Coal,1996,0 %
+Spain,Coal,1997,0 %
+Spain,Coal,1998,0 %
+Spain,Coal,1999,4 %
+Spain,Coal,2000,5 %
+Spain,Coal,2001,6 %
+Spain,Coal,2002,7 %
+Spain,Coal,2003,6 %
+Spain,Coal,2004,10 %
+Spain,Coal,2005,13 %
+Spain,Coal,2006,13 %
+Spain,Coal,2007,9 %
+Spain,Coal,2008,12 %
+Spain,Coal,2009,12 %
+Spain,Coal,2010,8 %
+Spain,Coal,2011,10 %
+Spain,Coal,2012,14 %
+Spain,Coal,2013,14 %
+Spain,Coal,2014,12 %
+Spain,Coal,2015,19 %
+Spain,Coal,2016,15 %
+Spain,Coal,2017,25 %
+Spain,Coal,2018,21 %
+Spain,Coal,2019,37 %
+Spain,Coal,2020,51 %
+Spain,Coal,2021,35 %
+Spain,Oil,1990,0 %
+Spain,Oil,1991,0 %
+Spain,Oil,1992,6 %
+Spain,Oil,1993,10 %
+Spain,Oil,1994,9 %
+Spain,Oil,1995,9 %
+Spain,Oil,1996,8 %
+Spain,Oil,1997,7 %
+Spain,Oil,1998,9 %
+Spain,Oil,1999,10 %
+Spain,Oil,2000,9 %
+Spain,Oil,2001,9 %
+Spain,Oil,2002,13 %
+Spain,Oil,2003,16 %
+Spain,Oil,2004,14 %
+Spain,Oil,2005,14 %
+Spain,Oil,2006,19 %
+Spain,Oil,2007,22 %
+Spain,Oil,2008,15 %
+Spain,Oil,2009,17 %
+Spain,Oil,2010,15 %
+Spain,Oil,2011,18 %
+Spain,Oil,2012,18 %
+Spain,Oil,2013,19 %
+Spain,Oil,2014,18 %
+Spain,Oil,2015,12 %
+Spain,Oil,2016,13 %
+Spain,Oil,2017,8 %
+Spain,Oil,2018,4 %
+Spain,Oil,2019,7 %
+Spain,Oil,2020,8 %
+Spain,Oil,2021,12 %
+Spain,Natural Gas,1990,0 %
+Spain,Natural Gas,1991,0 %
+Spain,Natural Gas,1992,0 %
+Spain,Natural Gas,1993,0 %
+Spain,Natural Gas,1994,0 %
+Spain,Natural Gas,1995,0 %
+Spain,Natural Gas,1996,0 %
+Spain,Natural Gas,1997,0 %
+Spain,Natural Gas,1998,0 %
+Spain,Natural Gas,1999,0 %
+Spain,Natural Gas,2000,0 %
+Spain,Natural Gas,2001,0 %
+Spain,Natural Gas,2002,0 %
+Spain,Natural Gas,2003,0 %
+Spain,Natural Gas,2004,0 %
+Spain,Natural Gas,2005,0 %
+Spain,Natural Gas,2006,0 %
+Spain,Natural Gas,2007,0 %
+Spain,Natural Gas,2008,0 %
+Spain,Natural Gas,2009,0 %
+Spain,Natural Gas,2010,0 %
+Spain,Natural Gas,2011,0 %
+Spain,Natural Gas,2012,0 %
+Spain,Natural Gas,2013,0 %
+Spain,Natural Gas,2014,0 %
+Spain,Natural Gas,2015,0 %
+Spain,Natural Gas,2016,0 %
+Spain,Natural Gas,2017,0 %
+Spain,Natural Gas,2018,3 %
+Spain,Natural Gas,2019,9 %
+Spain,Natural Gas,2020,11 %
+Spain,Natural Gas,2021,10 %
+Sweden,Coal,1990,12 %
+Sweden,Coal,1991,0 %
+Sweden,Coal,1992,9 %
+Sweden,Coal,1993,11 %
+Sweden,Coal,1994,6 %
+Sweden,Coal,1995,10 %
+Sweden,Coal,1996,6 %
+Sweden,Coal,1997,6 %
+Sweden,Coal,1998,5 %
+Sweden,Coal,1999,5 %
+Sweden,Coal,2000,7 %
+Sweden,Coal,2001,4 %
+Sweden,Coal,2002,5 %
+Sweden,Coal,2003,4 %
+Sweden,Coal,2004,10 %
+Sweden,Coal,2005,21 %
+Sweden,Coal,2006,18 %
+Sweden,Coal,2007,17 %
+Sweden,Coal,2008,20 %
+Sweden,Coal,2009,14 %
+Sweden,Coal,2010,17 %
+Sweden,Coal,2011,16 %
+Sweden,Coal,2012,14 %
+Sweden,Coal,2013,15 %
+Sweden,Coal,2014,15 %
+Sweden,Coal,2015,16 %
+Sweden,Coal,2016,15 %
+Sweden,Coal,2017,15 %
+Sweden,Coal,2018,17 %
+Sweden,Coal,2019,14 %
+Sweden,Coal,2020,20 %
+Sweden,Coal,2021,24 %
+Sweden,Oil,1990,1 %
+Sweden,Oil,1991,1 %
+Sweden,Oil,1992,8 %
+Sweden,Oil,1993,6 %
+Sweden,Oil,1994,3 %
+Sweden,Oil,1995,1 %
+Sweden,Oil,1996,1 %
+Sweden,Oil,1997,12 %
+Sweden,Oil,1998,14 %
+Sweden,Oil,1999,16 %
+Sweden,Oil,2000,10 %
+Sweden,Oil,2001,8 %
+Sweden,Oil,2002,24 %
+Sweden,Oil,2003,26 %
+Sweden,Oil,2004,37 %
+Sweden,Oil,2005,51 %
+Sweden,Oil,2006,53 %
+Sweden,Oil,2007,47 %
+Sweden,Oil,2008,54 %
+Sweden,Oil,2009,63 %
+Sweden,Oil,2010,64 %
+Sweden,Oil,2011,72 %
+Sweden,Oil,2012,71 %
+Sweden,Oil,2013,60 %
+Sweden,Oil,2014,78 %
+Sweden,Oil,2015,105 %
+Sweden,Oil,2016,92 %
+Sweden,Oil,2017,82 %
+Sweden,Oil,2018,74 %
+Sweden,Oil,2019,56 %
+Sweden,Oil,2020,26 %
+Sweden,Oil,2021,26 %
+Sweden,Natural Gas,1990,0 %
+Sweden,Natural Gas,1991,0 %
+Sweden,Natural Gas,1992,0 %
+Sweden,Natural Gas,1993,0 %
+Sweden,Natural Gas,1994,0 %
+Sweden,Natural Gas,1995,0 %
+Sweden,Natural Gas,1996,0 %
+Sweden,Natural Gas,1997,0 %
+Sweden,Natural Gas,1998,0 %
+Sweden,Natural Gas,1999,0 %
+Sweden,Natural Gas,2000,0 %
+Sweden,Natural Gas,2001,0 %
+Sweden,Natural Gas,2002,0 %
+Sweden,Natural Gas,2003,0 %
+Sweden,Natural Gas,2004,0 %
+Sweden,Natural Gas,2005,0 %
+Sweden,Natural Gas,2006,0 %
+Sweden,Natural Gas,2007,0 %
+Sweden,Natural Gas,2008,0 %
+Sweden,Natural Gas,2009,0 %
+Sweden,Natural Gas,2010,0 %
+Sweden,Natural Gas,2011,0 %
+Sweden,Natural Gas,2012,0 %
+Sweden,Natural Gas,2013,0 %
+Sweden,Natural Gas,2014,0 %
+Sweden,Natural Gas,2015,0 %
+Sweden,Natural Gas,2016,0 %
+Sweden,Natural Gas,2017,0 %
+Sweden,Natural Gas,2018,0 %
+Sweden,Natural Gas,2019,0 %
+Sweden,Natural Gas,2020,14 %
+Sweden,Natural Gas,2021,3 %
+Switzerland,Coal,1990,0 %
+Switzerland,Coal,1991,0 %
+Switzerland,Coal,1992,0 %
+Switzerland,Coal,1993,0 %
+Switzerland,Coal,1994,0 %
+Switzerland,Coal,1995,2 %
+Switzerland,Coal,1996,0 %
+Switzerland,Coal,1997,0 %
+Switzerland,Coal,1998,0 %
+Switzerland,Coal,1999,2 %
+Switzerland,Coal,2000,1 %
+Switzerland,Coal,2001,1 %
+Switzerland,Coal,2002,2 %
+Switzerland,Coal,2003,2 %
+Switzerland,Coal,2004,2 %
+Switzerland,Coal,2005,1 %
+Switzerland,Coal,2006,2 %
+Switzerland,Coal,2007,2 %
+Switzerland,Coal,2008,2 %
+Switzerland,Coal,2009,1 %
+Switzerland,Coal,2010,1 %
+Switzerland,Coal,2011,0 %
+Switzerland,Coal,2012,0 %
+Switzerland,Coal,2013,2 %
+Switzerland,Coal,2014,0 %
+Switzerland,Coal,2015,1 %
+Switzerland,Coal,2016,2 %
+Switzerland,Coal,2017,2 %
+Switzerland,Coal,2018,3 %
+Switzerland,Coal,2019,11 %
+Switzerland,Coal,2020,8 %
+Switzerland,Coal,2021,6 %
+Switzerland,Oil,1990,0 %
+Switzerland,Oil,1991,0 %
+Switzerland,Oil,1992,0 %
+Switzerland,Oil,1993,0 %
+Switzerland,Oil,1994,0 %
+Switzerland,Oil,1995,0 %
+Switzerland,Oil,1996,0 %
+Switzerland,Oil,1997,0 %
+Switzerland,Oil,1998,0 %
+Switzerland,Oil,1999,0 %
+Switzerland,Oil,2000,0 %
+Switzerland,Oil,2001,0 %
+Switzerland,Oil,2002,0 %
+Switzerland,Oil,2003,0 %
+Switzerland,Oil,2004,0 %
+Switzerland,Oil,2005,0 %
+Switzerland,Oil,2006,0 %
+Switzerland,Oil,2007,0 %
+Switzerland,Oil,2008,0 %
+Switzerland,Oil,2009,0 %
+Switzerland,Oil,2010,0 %
+Switzerland,Oil,2011,1 %
+Switzerland,Oil,2012,0 %
+Switzerland,Oil,2013,0 %
+Switzerland,Oil,2014,0 %
+Switzerland,Oil,2015,0 %
+Switzerland,Oil,2016,3 %
+Switzerland,Oil,2017,0 %
+Switzerland,Oil,2018,0 %
+Switzerland,Oil,2019,0 %
+Switzerland,Oil,2020,0 %
+Switzerland,Oil,2021,0 %
+Switzerland,Natural Gas,1990,13 %
+Switzerland,Natural Gas,1991,17 %
+Switzerland,Natural Gas,1992,17 %
+Switzerland,Natural Gas,1993,15 %
+Switzerland,Natural Gas,1994,16 %
+Switzerland,Natural Gas,1995,12 %
+Switzerland,Natural Gas,1996,14 %
+Switzerland,Natural Gas,1997,13 %
+Switzerland,Natural Gas,1998,13 %
+Switzerland,Natural Gas,1999,13 %
+Switzerland,Natural Gas,2000,0 %
+Switzerland,Natural Gas,2001,0 %
+Switzerland,Natural Gas,2002,0 %
+Switzerland,Natural Gas,2003,0 %
+Switzerland,Natural Gas,2004,0 %
+Switzerland,Natural Gas,2005,0 %
+Switzerland,Natural Gas,2006,0 %
+Switzerland,Natural Gas,2007,0 %
+Switzerland,Natural Gas,2008,0 %
+Switzerland,Natural Gas,2009,0 %
+Switzerland,Natural Gas,2010,0 %
+Switzerland,Natural Gas,2011,0 %
+Switzerland,Natural Gas,2012,0 %
+Switzerland,Natural Gas,2013,0 %
+Switzerland,Natural Gas,2014,0 %
+Switzerland,Natural Gas,2015,0 %
+Switzerland,Natural Gas,2016,0 %
+Switzerland,Natural Gas,2017,0 %
+Switzerland,Natural Gas,2018,0 %
+Switzerland,Natural Gas,2019,0 %
+Switzerland,Natural Gas,2020,0 %
+Switzerland,Natural Gas,2021,0 %
+Republic of Turkiye,Coal,1990,4 %
+Republic of Turkiye,Coal,1991,5 %
+Republic of Turkiye,Coal,1992,4 %
+Republic of Turkiye,Coal,1993,3 %
+Republic of Turkiye,Coal,1994,3 %
+Republic of Turkiye,Coal,1995,4 %
+Republic of Turkiye,Coal,1996,8 %
+Republic of Turkiye,Coal,1997,9 %
+Republic of Turkiye,Coal,1998,11 %
+Republic of Turkiye,Coal,1999,12 %
+Republic of Turkiye,Coal,2000,15 %
+Republic of Turkiye,Coal,2001,11 %
+Republic of Turkiye,Coal,2002,17 %
+Republic of Turkiye,Coal,2003,19 %
+Republic of Turkiye,Coal,2004,19 %
+Republic of Turkiye,Coal,2005,19 %
+Republic of Turkiye,Coal,2006,20 %
+Republic of Turkiye,Coal,2007,21 %
+Republic of Turkiye,Coal,2008,18 %
+Republic of Turkiye,Coal,2009,19 %
+Republic of Turkiye,Coal,2010,20 %
+Republic of Turkiye,Coal,2011,16 %
+Republic of Turkiye,Coal,2012,18 %
+Republic of Turkiye,Coal,2013,18 %
+Republic of Turkiye,Coal,2014,16 %
+Republic of Turkiye,Coal,2015,21 %
+Republic of Turkiye,Coal,2016,20 %
+Republic of Turkiye,Coal,2017,23 %
+Republic of Turkiye,Coal,2018,19 %
+Republic of Turkiye,Coal,2019,21 %
+Republic of Turkiye,Coal,2020,26 %
+Republic of Turkiye,Coal,2021,21 %
+Republic of Turkiye,Oil,1990,9 %
+Republic of Turkiye,Oil,1991,1 %
+Republic of Turkiye,Oil,1992,2 %
+Republic of Turkiye,Oil,1993,5 %
+Republic of Turkiye,Oil,1994,1 %
+Republic of Turkiye,Oil,1995,5 %
+Republic of Turkiye,Oil,1996,2 %
+Republic of Turkiye,Oil,1997,2 %
+Republic of Turkiye,Oil,1998,3 %
+Republic of Turkiye,Oil,1999,9 %
+Republic of Turkiye,Oil,2000,7 %
+Republic of Turkiye,Oil,2001,17 %
+Republic of Turkiye,Oil,2002,13 %
+Republic of Turkiye,Oil,2003,16 %
+Republic of Turkiye,Oil,2004,22 %
+Republic of Turkiye,Oil,2005,25 %
+Republic of Turkiye,Oil,2006,23 %
+Republic of Turkiye,Oil,2007,30 %
+Republic of Turkiye,Oil,2008,24 %
+Republic of Turkiye,Oil,2009,22 %
+Republic of Turkiye,Oil,2010,14 %
+Republic of Turkiye,Oil,2011,10 %
+Republic of Turkiye,Oil,2012,9 %
+Republic of Turkiye,Oil,2013,8 %
+Republic of Turkiye,Oil,2014,5 %
+Republic of Turkiye,Oil,2015,11 %
+Republic of Turkiye,Oil,2016,10 %
+Republic of Turkiye,Oil,2017,7 %
+Republic of Turkiye,Oil,2018,7 %
+Republic of Turkiye,Oil,2019,26 %
+Republic of Turkiye,Oil,2020,10 %
+Republic of Turkiye,Oil,2021,14 %
+Republic of Turkiye,Natural Gas,1990,94 %
+Republic of Turkiye,Natural Gas,1991,95 %
+Republic of Turkiye,Natural Gas,1992,96 %
+Republic of Turkiye,Natural Gas,1993,96 %
+Republic of Turkiye,Natural Gas,1994,90 %
+Republic of Turkiye,Natural Gas,1995,79 %
+Republic of Turkiye,Natural Gas,1996,67 %
+Republic of Turkiye,Natural Gas,1997,65 %
+Republic of Turkiye,Natural Gas,1998,60 %
+Republic of Turkiye,Natural Gas,1999,67 %
+Republic of Turkiye,Natural Gas,2000,65 %
+Republic of Turkiye,Natural Gas,2001,66 %
+Republic of Turkiye,Natural Gas,2002,64 %
+Republic of Turkiye,Natural Gas,2003,58 %
+Republic of Turkiye,Natural Gas,2004,61 %
+Republic of Turkiye,Natural Gas,2005,62 %
+Republic of Turkiye,Natural Gas,2006,60 %
+Republic of Turkiye,Natural Gas,2007,61 %
+Republic of Turkiye,Natural Gas,2008,63 %
+Republic of Turkiye,Natural Gas,2009,55 %
+Republic of Turkiye,Natural Gas,2010,46 %
+Republic of Turkiye,Natural Gas,2011,57 %
+Republic of Turkiye,Natural Gas,2012,59 %
+Republic of Turkiye,Natural Gas,2013,57 %
+Republic of Turkiye,Natural Gas,2014,55 %
+Republic of Turkiye,Natural Gas,2015,56 %
+Republic of Turkiye,Natural Gas,2016,53 %
+Republic of Turkiye,Natural Gas,2017,53 %
+Republic of Turkiye,Natural Gas,2018,47 %
+Republic of Turkiye,Natural Gas,2019,34 %
+Republic of Turkiye,Natural Gas,2020,34 %
+Republic of Turkiye,Natural Gas,2021,44 %
+United Kingdom,Coal,1990,1 %
+United Kingdom,Coal,1991,1 %
+United Kingdom,Coal,1992,1 %
+United Kingdom,Coal,1993,1 %
+United Kingdom,Coal,1994,1 %
+United Kingdom,Coal,1995,0 %
+United Kingdom,Coal,1996,0 %
+United Kingdom,Coal,1997,0 %
+United Kingdom,Coal,1998,0 %
+United Kingdom,Coal,1999,0 %
+United Kingdom,Coal,2000,1 %
+United Kingdom,Coal,2001,6 %
+United Kingdom,Coal,2002,7 %
+United Kingdom,Coal,2003,6 %
+United Kingdom,Coal,2004,16 %
+United Kingdom,Coal,2005,29 %
+United Kingdom,Coal,2006,36 %
+United Kingdom,Coal,2007,34 %
+United Kingdom,Coal,2008,37 %
+United Kingdom,Coal,2009,39 %
+United Kingdom,Coal,2010,19 %
+United Kingdom,Coal,2011,25 %
+United Kingdom,Coal,2012,29 %
+United Kingdom,Coal,2013,34 %
+United Kingdom,Coal,2014,37 %
+United Kingdom,Coal,2015,22 %
+United Kingdom,Coal,2016,13 %
+United Kingdom,Coal,2017,26 %
+United Kingdom,Coal,2018,36 %
+United Kingdom,Coal,2019,27 %
+United Kingdom,Coal,2020,20 %
+United Kingdom,Coal,2021,23 %
+United Kingdom,Oil,1990,7 %
+United Kingdom,Oil,1991,7 %
+United Kingdom,Oil,1992,5 %
+United Kingdom,Oil,1993,5 %
+United Kingdom,Oil,1994,5 %
+United Kingdom,Oil,1995,4 %
+United Kingdom,Oil,1996,4 %
+United Kingdom,Oil,1997,5 %
+United Kingdom,Oil,1998,4 %
+United Kingdom,Oil,1999,2 %
+United Kingdom,Oil,2000,4 %
+United Kingdom,Oil,2001,4 %
+United Kingdom,Oil,2002,6 %
+United Kingdom,Oil,2003,8 %
+United Kingdom,Oil,2004,13 %
+United Kingdom,Oil,2005,8 %
+United Kingdom,Oil,2006,14 %
+United Kingdom,Oil,2007,13 %
+United Kingdom,Oil,2008,13 %
+United Kingdom,Oil,2009,9 %
+United Kingdom,Oil,2010,8 %
+United Kingdom,Oil,2011,10 %
+United Kingdom,Oil,2012,13 %
+United Kingdom,Oil,2013,9 %
+United Kingdom,Oil,2014,5 %
+United Kingdom,Oil,2015,4 %
+United Kingdom,Oil,2016,6 %
+United Kingdom,Oil,2017,8 %
+United Kingdom,Oil,2018,6 %
+United Kingdom,Oil,2019,8 %
+United Kingdom,Oil,2020,9 %
+United Kingdom,Oil,2021,7 %
+United Kingdom,Natural Gas,1990,0 %
+United Kingdom,Natural Gas,1991,0 %
+United Kingdom,Natural Gas,1992,0 %
+United Kingdom,Natural Gas,1993,0 %
+United Kingdom,Natural Gas,1994,0 %
+United Kingdom,Natural Gas,1995,0 %
+United Kingdom,Natural Gas,1996,0 %
+United Kingdom,Natural Gas,1997,0 %
+United Kingdom,Natural Gas,1998,0 %
+United Kingdom,Natural Gas,1999,0 %
+United Kingdom,Natural Gas,2000,0 %
+United Kingdom,Natural Gas,2001,0 %
+United Kingdom,Natural Gas,2002,0 %
+United Kingdom,Natural Gas,2003,0 %
+United Kingdom,Natural Gas,2004,0 %
+United Kingdom,Natural Gas,2005,0 %
+United Kingdom,Natural Gas,2006,0 %
+United Kingdom,Natural Gas,2007,0 %
+United Kingdom,Natural Gas,2008,0 %
+United Kingdom,Natural Gas,2009,0 %
+United Kingdom,Natural Gas,2010,0 %
+United Kingdom,Natural Gas,2011,0 %
+United Kingdom,Natural Gas,2012,0 %
+United Kingdom,Natural Gas,2013,0 %
+United Kingdom,Natural Gas,2014,0 %
+United Kingdom,Natural Gas,2015,0 %
+United Kingdom,Natural Gas,2016,0 %
+United Kingdom,Natural Gas,2017,0 %
+United Kingdom,Natural Gas,2018,2 %
+United Kingdom,Natural Gas,2019,4 %
+United Kingdom,Natural Gas,2020,3 %
+United Kingdom,Natural Gas,2021,4 %
+United States,Coal,1990,0 %
+United States,Coal,1991,0 %
+United States,Coal,1992,0 %
+United States,Coal,1993,0 %
+United States,Coal,1994,0 %
+United States,Coal,1995,0 %
+United States,Coal,1996,0 %
+United States,Coal,1997,0 %
+United States,Coal,1998,0 %
+United States,Coal,1999,0 %
+United States,Coal,2000,0 %
+United States,Coal,2001,0 %
+United States,Coal,2002,0 %
+United States,Coal,2003,0 %
+United States,Coal,2004,0 %
+United States,Coal,2005,0 %
+United States,Coal,2006,0 %
+United States,Coal,2007,0 %
+United States,Coal,2008,0 %
+United States,Coal,2009,0 %
+United States,Coal,2010,0 %
+United States,Coal,2011,0 %
+United States,Coal,2012,0 %
+United States,Coal,2013,0 %
+United States,Coal,2014,0 %
+United States,Coal,2015,0 %
+United States,Coal,2016,0 %
+United States,Coal,2017,0 %
+United States,Coal,2018,0 %
+United States,Coal,2019,0 %
+United States,Coal,2020,0 %
+United States,Coal,2021,0 %
+United States,Oil,1990,0 %
+United States,Oil,1991,0 %
+United States,Oil,1992,0 %
+United States,Oil,1993,0 %
+United States,Oil,1994,0 %
+United States,Oil,1995,0 %
+United States,Oil,1996,0 %
+United States,Oil,1997,0 %
+United States,Oil,1998,0 %
+United States,Oil,1999,0 %
+United States,Oil,2000,0 %
+United States,Oil,2001,0 %
+United States,Oil,2002,1 %
+United States,Oil,2003,1 %
+United States,Oil,2004,1 %
+United States,Oil,2005,2 %
+United States,Oil,2006,2 %
+United States,Oil,2007,2 %
+United States,Oil,2008,2 %
+United States,Oil,2009,3 %
+United States,Oil,2010,4 %
+United States,Oil,2011,4 %
+United States,Oil,2012,3 %
+United States,Oil,2013,3 %
+United States,Oil,2014,2 %
+United States,Oil,2015,2 %
+United States,Oil,2016,2 %
+United States,Oil,2017,2 %
+United States,Oil,2018,2 %
+United States,Oil,2019,3 %
+United States,Oil,2020,4 %
+United States,Oil,2021,4 %
+United States,Natural Gas,1990,0 %
+United States,Natural Gas,1991,0 %
+United States,Natural Gas,1992,0 %
+United States,Natural Gas,1993,0 %
+United States,Natural Gas,1994,0 %
+United States,Natural Gas,1995,0 %
+United States,Natural Gas,1996,0 %
+United States,Natural Gas,1997,0 %
+United States,Natural Gas,1998,0 %
+United States,Natural Gas,1999,0 %
+United States,Natural Gas,2000,0 %
+United States,Natural Gas,2001,0 %
+United States,Natural Gas,2002,0 %
+United States,Natural Gas,2003,0 %
+United States,Natural Gas,2004,0 %
+United States,Natural Gas,2005,0 %
+United States,Natural Gas,2006,0 %
+United States,Natural Gas,2007,0 %
+United States,Natural Gas,2008,0 %
+United States,Natural Gas,2009,0 %
+United States,Natural Gas,2010,0 %
+United States,Natural Gas,2011,0 %
+United States,Natural Gas,2012,0 %
+United States,Natural Gas,2013,0 %
+United States,Natural Gas,2014,0 %
+United States,Natural Gas,2015,0 %
+United States,Natural Gas,2016,0 %
+United States,Natural Gas,2017,0 %
+United States,Natural Gas,2018,0 %
+United States,Natural Gas,2019,0 %
+United States,Natural Gas,2020,0 %
+United States,Natural Gas,2021,0 %
