@@ -20,9 +20,8 @@ Group members:
 
 As per course requirements, below are the lists of important links for the project:
 
-1. Observable notebooks
+1. Observable explorative notebook
 
-- [Reliance on Russian imports](https://observablehq.com/d/f6b256299abdf4b5)
 - [Main exploration notebook in Observable](https://observablehq.com/d/3d80e662164dfcc3)
 
 2. [Link to published story: How Far Are We From Economic Fossil Fuel Independence?](https://mvtec-dataviz-project-group1-v2.vercel.app/)
