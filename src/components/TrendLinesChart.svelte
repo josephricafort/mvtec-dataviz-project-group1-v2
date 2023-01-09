@@ -229,7 +229,7 @@
 
 <style>
 .trend-line-chart {
-    margin: 20px auto;
+    margin-top: 20px;
     font-size: 14px;
 }
 

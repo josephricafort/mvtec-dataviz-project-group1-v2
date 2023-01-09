@@ -23,7 +23,8 @@
 <!-- svelte-ignore missing-declaration -->
 <main>
 	<section class="header">
-		<h1> Fossil Fuel Production</h1>
+		<h1>How Far Are We From Economic Fossil Fuel Independence?</h1>
+		<h3>By Helen Bielawa, Joseph Ricafort and Makhan Sacko</h3>
 		<p>
 		During the last 120 years, countries started to produce more and more fossilfuels (gas, oil and coal). But, we can also see them changing the amount of production. Why is that? We explore the data about fossil fuel production in order to find out what impacts a country to produce more or less fossil fuels. We have three hypothesises: There might be political reasons (independence from other countries), social reasons or economic benefits. We leave the topic of sustainablity out as there is another team looking deeply at that.
 		<br><br>
@@ -39,16 +40,28 @@
 		<br>
 		<RussianImportsChart filter = {importFilter}/>
 		<br>
-		The chart shows which percentage of the countrie's consumption of each fossil fuel is imported from Russia. We don't see a clear pattern. But, a closer look at the chart reveals that countries which are close to Russia (e.g. Estonia and Lithuania) particularly depend on Russian imports. At first sight it might seem irritating that some countries import more than 100 percent of their consumption from Russia. That is because some import more than they consume, for example because they save it.<br>
-		We don't see a sharp decrease of fossil fuel imports from Russia after 2014 or in the following years. From that we conclude that political independence was not an important motivation to stop importing and to start producing more. However, this might change at the moment.
+		<p>The chart shows which percentage of the countrie's consumption of each fossil fuel is imported from Russia. We don't see a clear pattern. But, a closer look at the chart reveals that countries which are close to Russia (e.g. Estonia and Lithuania) particularly depend on Russian imports. At first sight it might seem irritating that some countries import more than 100 percent of their consumption from Russia. That is because some import more than they consume, for example because they save it.</p>
+		<p>We don't see a sharp decrease of fossil fuel imports from Russia after 2014 or in the following years. From that we conclude that political independence was not an important motivation to stop importing and to start producing more. However, this might change at the moment.</p>
 	</section>
 	<section class="content fossil-fuel-renewable">
 		<h3>Renewable energy production remains insignificant compared to total fossil fuel production</h3>
+		<p>The use of renewable energy still remains insignificant as compared to the total fossil fuel energies. Although we can still note that it starts to become more significant in terms of per capita value.</p>
 		<FfRenChart />
 	</section>
 	<section class="content fossil-fuel-trend">
 		<h3>Reducing fossil fuel may not necessarily mean a decline in GDP</h3>
+		<p>In general, an increase in fossil fuel production is also a relative increase in GDP. Although a reduction of fossil fuel production may not necessarily mean GDP will go down.</p>
+		<p>One of the good example is the reduction of coal production vs GDP expenditure (multiple price benchmark) for Europe and Africa.</p>
 		<TrendLinesChart />
+	</section>
+	<section>
+		<h3>Summary</h3>
+		<p>Below are the three main key points that sums up our exploration:</p>
+		<ul>
+			<li>Europe's political independence did not stop importing and producing fossil fuel from Russia.</li>
+			<li>Renewable energy production is at its early stage at the moment anc currnently not as significant enough to replace fossil fuel.</li>
+			<li>Reduction of yearly increase on fossil fuel production did not prevent economic growth, but complete shift to renewables may not happen anytime soon.</li>
+		</ul>
 	</section>
 </main>
 
