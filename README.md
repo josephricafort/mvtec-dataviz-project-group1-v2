@@ -39,3 +39,7 @@ Other explorations and optional materials we prepared:
 - [Quick statistical exploration](https://observablehq.com/d/44b8f6a734288101)
 - [D3 wrap up before Svelte](https://observablehq.com/d/3d77b7325ea7cc02)
 - [Presentation slides](https://www.canva.com/design/DAFXG6RtyDc/iCfP--PqI0hxUv-5ESY5pA/view?utm_content=DAFXG6RtyDc&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
+
+If you want to check for the history, here's the link for the starting repo where most of the development work took place:
+
+- (Old repo)[https://github.com/HelenBielawa/mvtec-dataviz-project-group1)
