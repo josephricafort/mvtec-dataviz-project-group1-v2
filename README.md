@@ -42,4 +42,4 @@ Other explorations and optional materials we prepared:
 
 If you want to check for the history, here's the link for the starting repo where most of the development work took place:
 
-- (Old repo)[https://github.com/HelenBielawa/mvtec-dataviz-project-group1)
+- [Old repo](https://github.com/HelenBielawa/mvtec-dataviz-project-group1)
